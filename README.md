@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 1 | [Two Sum](./0001-two-sum) | Java |
 | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Java |
+| 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 
 ## Linked List
 
@@ -35,6 +36,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 2 | [Add Two Numbers](./0002-add-two-numbers) | Java |
 | 9 | [Palindrome Number](./0009-palindrome-number) | Java |
+| 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 
 ## Recursion
 
@@ -55,6 +57,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Java |
 | 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
 | 6 | [Zigzag Conversion](./0006-zigzag-conversion) | Java |
+| 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 
 ## Two Pointers
 
