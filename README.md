@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 2 | [Add Two Numbers](./0002-add-two-numbers) | Java |
+| 9 | [Palindrome Number](./0009-palindrome-number) | Java |
 
 ## Recursion
 
