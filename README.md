@@ -53,6 +53,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Java |
 | 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
+| 6 | [Zigzag Conversion](./0006-zigzag-conversion) | Java |
 
 ## Two Pointers
 
