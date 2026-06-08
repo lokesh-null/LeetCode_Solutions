@@ -9,6 +9,19 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 1 | [Two Sum](./0001-two-sum) | Java |
+| 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | Java |
+
+## Binary Search
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | Java |
+
+## Divide and Conquer
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | Java |
 
 ## Dynamic Programming
 
