@@ -1,0 +1,30 @@
+name: Update README by Topics
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+
+      - name: Run update_readme.js
+        run: node update_readme.js
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "docs: update README with new problem topics"
+          file_pattern: "README.md"
