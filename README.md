@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 2 | [Add Two Numbers](./0002-add-two-numbers) | Java |
 | 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
+| 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 
 ## Math
 
@@ -76,6 +77,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 2 | [Add Two Numbers](./0002-add-two-numbers) | Java |
 | 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
+| 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 
 ## Sliding Window
 
@@ -88,6 +90,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
+| 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 
 ## String
 
@@ -114,4 +117,5 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
+| 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 
