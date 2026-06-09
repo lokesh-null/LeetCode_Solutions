@@ -55,6 +55,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 2 | [Add Two Numbers](./0002-add-two-numbers) | Java |
+| 7 | [Reverse Integer](./0007-reverse-integer) | Java |
 | 9 | [Palindrome Number](./0009-palindrome-number) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 
