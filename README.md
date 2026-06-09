@@ -70,6 +70,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 7 | [Reverse Integer](./0007-reverse-integer) | Java |
 | 9 | [Palindrome Number](./0009-palindrome-number) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
+| 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 
 ## Recursion
 
@@ -105,6 +106,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
+| 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 
 ## Trie
