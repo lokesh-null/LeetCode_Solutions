@@ -13,6 +13,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 14 | [Longest Common Prefix](./0014-longest-common-prefix) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 
+## Backtracking
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
+
 ## Binary Search
 
 | # | Problem | Language |
@@ -44,6 +50,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1 | [Two Sum](./0001-two-sum) | Java |
 | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
+| 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
 
 ## Linked List
 
@@ -82,6 +89,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 8 | [String to Integer (atoi)](./0008-string-to-integer-atoi) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 14 | [Longest Common Prefix](./0014-longest-common-prefix) | Java |
+| 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
 
 ## Trie
 
