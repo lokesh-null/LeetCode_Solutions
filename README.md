@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
+| 10 | [Regular Expression Matching](./0010-regular-expression-matching) | Java |
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 
 ## Greedy
@@ -88,6 +89,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 2 | [Add Two Numbers](./0002-add-two-numbers) | Java |
+| 10 | [Regular Expression Matching](./0010-regular-expression-matching) | Java |
 | 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 
@@ -119,6 +121,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
 | 6 | [Zigzag Conversion](./0006-zigzag-conversion) | Java |
 | 8 | [String to Integer (atoi)](./0008-string-to-integer-atoi) | Java |
+| 10 | [Regular Expression Matching](./0010-regular-expression-matching) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 14 | [Longest Common Prefix](./0014-longest-common-prefix) | Java |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
