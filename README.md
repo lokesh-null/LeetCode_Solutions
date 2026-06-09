@@ -12,6 +12,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | Java |
 | 14 | [Longest Common Prefix](./0014-longest-common-prefix) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
+| 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 
 ## Backtracking
@@ -62,6 +63,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
+| 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 
 ## Linked List
 
@@ -94,6 +96,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Java |
+| 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 
 ## Sorting
 
