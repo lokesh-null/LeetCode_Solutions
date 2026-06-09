@@ -78,6 +78,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Java |
 | 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
 | 6 | [Zigzag Conversion](./0006-zigzag-conversion) | Java |
+| 8 | [String to Integer (atoi)](./0008-string-to-integer-atoi) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 
 ## Two Pointers
