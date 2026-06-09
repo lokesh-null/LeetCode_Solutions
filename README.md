@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
+| 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 
 ## Binary Search
 
@@ -36,6 +37,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
+| 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 
 ## Greedy
 
@@ -99,6 +101,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 14 | [Longest Common Prefix](./0014-longest-common-prefix) | Java |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
+| 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 
 ## Trie
 
