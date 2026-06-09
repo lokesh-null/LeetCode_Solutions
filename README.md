@@ -79,6 +79,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Java |
 
+## Stack
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
+
 ## String
 
 | # | Problem | Language |
@@ -90,6 +96,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 14 | [Longest Common Prefix](./0014-longest-common-prefix) | Java |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
+| 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
 
 ## Trie
 
