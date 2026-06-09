@@ -105,6 +105,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
+| 344 | [Reverse String](./0344-reverse-string) | Java |
 
 ## Trie
 
@@ -118,4 +119,5 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
+| 344 | [Reverse String](./0344-reverse-string) | Java |
 
