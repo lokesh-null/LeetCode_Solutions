@@ -10,6 +10,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 1 | [Two Sum](./0001-two-sum) | Java |
 | 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | Java |
+| 4005 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 
 ## Binary Search
 
@@ -28,6 +29,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
+
+## Greedy
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 4005 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 
 ## Hash Table
 
