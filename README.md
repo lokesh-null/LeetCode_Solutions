@@ -26,11 +26,18 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | Java |
 
+## Bit Manipulation
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 190 | [Reverse Bits](./0190-reverse-bits) | Java |
+
 ## Divide and Conquer
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | Java |
+| 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 
 ## Dynamic Programming
 
