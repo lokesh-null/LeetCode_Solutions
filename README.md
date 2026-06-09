@@ -57,6 +57,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 2 | [Add Two Numbers](./0002-add-two-numbers) | Java |
+| 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
 
 ## Math
 
@@ -72,6 +73,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 2 | [Add Two Numbers](./0002-add-two-numbers) | Java |
+| 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
 
 ## Sliding Window
 
