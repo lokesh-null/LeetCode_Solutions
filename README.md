@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 
 ## Divide and Conquer
@@ -106,6 +107,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 9 | [Palindrome Number](./0009-palindrome-number) | Java |
 | 12 | [Integer to Roman](./0012-integer-to-roman) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
+| 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 
