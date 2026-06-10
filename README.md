@@ -11,6 +11,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1 | [Two Sum](./0001-two-sum) | Java |
 | 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | Java |
 | 14 | [Longest Common Prefix](./0014-longest-common-prefix) | Java |
+| 15 | [3Sum](./0015-3sum) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
@@ -104,6 +105,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 15 | [3Sum](./0015-3sum) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 
 ## Stack
@@ -141,6 +143,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
+| 15 | [3Sum](./0015-3sum) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 
