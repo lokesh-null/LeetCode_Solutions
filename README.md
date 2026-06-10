@@ -75,6 +75,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 12 | [Integer to Roman](./0012-integer-to-roman) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
+| 30 | [Substring with Concatenation of All Words](./0030-substring-with-concatenation-of-all-words) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -150,6 +151,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Java |
+| 30 | [Substring with Concatenation of All Words](./0030-substring-with-concatenation-of-all-words) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 
 ## Sorting
@@ -187,6 +189,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 | 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
+| 30 | [Substring with Concatenation of All Words](./0030-substring-with-concatenation-of-all-words) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
