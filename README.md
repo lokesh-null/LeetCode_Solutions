@@ -70,6 +70,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 1 | [Two Sum](./0001-two-sum) | Java |
 | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Java |
+| 12 | [Integer to Roman](./0012-integer-to-roman) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
@@ -93,6 +94,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 2 | [Add Two Numbers](./0002-add-two-numbers) | Java |
 | 7 | [Reverse Integer](./0007-reverse-integer) | Java |
 | 9 | [Palindrome Number](./0009-palindrome-number) | Java |
+| 12 | [Integer to Roman](./0012-integer-to-roman) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
@@ -159,6 +161,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 6 | [Zigzag Conversion](./0006-zigzag-conversion) | Java |
 | 8 | [String to Integer (atoi)](./0008-string-to-integer-atoi) | Java |
 | 10 | [Regular Expression Matching](./0010-regular-expression-matching) | Java |
+| 12 | [Integer to Roman](./0012-integer-to-roman) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 14 | [Longest Common Prefix](./0014-longest-common-prefix) | Java |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
