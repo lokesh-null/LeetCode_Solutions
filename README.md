@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | Java |
+| 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 
 ## Dynamic Programming
@@ -79,6 +80,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 
+## Heap (Priority Queue)
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
+
 ## Linked List
 
 | # | Problem | Language |
@@ -86,6 +93,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 2 | [Add Two Numbers](./0002-add-two-numbers) | Java |
 | 19 | [Remove Nth Node From End of List](./0019-remove-nth-node-from-end-of-list) | Java |
 | 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
+| 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 
 ## Math
@@ -105,6 +113,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
+
+## Merge Sort
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
 
 ## Monotonic Stack
 
