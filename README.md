@@ -94,6 +94,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 19 | [Remove Nth Node From End of List](./0019-remove-nth-node-from-end-of-list) | Java |
 | 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
 | 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
+| 25 | [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 
 ## Math
@@ -139,6 +140,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 2 | [Add Two Numbers](./0002-add-two-numbers) | Java |
 | 10 | [Regular Expression Matching](./0010-regular-expression-matching) | Java |
 | 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
+| 25 | [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 
 ## Sliding Window
