@@ -55,6 +55,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
 | 10 | [Regular Expression Matching](./0010-regular-expression-matching) | Java |
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
+| 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 
 ## Greedy
 
@@ -93,7 +94,14 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 7 | [Reverse Integer](./0007-reverse-integer) | Java |
 | 9 | [Palindrome Number](./0009-palindrome-number) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
+| 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
+
+## Memoization
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 
 ## Monotonic Stack
 
