@@ -15,6 +15,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 15 | [3Sum](./0015-3sum) | Java |
 | 16 | [3Sum Closest](./0016-3sum-closest) | Java |
 | 18 | [4Sum](./0018-4sum) | Java |
+| 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
@@ -69,6 +70,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
+| 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
@@ -120,6 +122,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 15 | [3Sum](./0015-3sum) | Java |
 | 16 | [3Sum Closest](./0016-3sum-closest) | Java |
 | 18 | [4Sum](./0018-4sum) | Java |
+| 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 
 ## Stack
@@ -143,6 +146,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
+| 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 
