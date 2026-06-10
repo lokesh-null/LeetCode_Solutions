@@ -17,6 +17,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 18 | [4Sum](./0018-4sum) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
+| 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 
 ## Backtracking
@@ -70,6 +71,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
+| 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 
 ## Linked List
 
@@ -88,6 +90,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 9 | [Palindrome Number](./0009-palindrome-number) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
+
+## Prefix Sum
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 
 ## Recursion
 
