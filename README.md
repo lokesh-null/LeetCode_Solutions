@@ -13,6 +13,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 14 | [Longest Common Prefix](./0014-longest-common-prefix) | Java |
 | 15 | [3Sum](./0015-3sum) | Java |
 | 16 | [3Sum Closest](./0016-3sum-closest) | Java |
+| 18 | [4Sum](./0018-4sum) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
@@ -108,6 +109,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 15 | [3Sum](./0015-3sum) | Java |
 | 16 | [3Sum Closest](./0016-3sum-closest) | Java |
+| 18 | [4Sum](./0018-4sum) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 
 ## Stack
@@ -147,6 +149,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
 | 15 | [3Sum](./0015-3sum) | Java |
 | 16 | [3Sum Closest](./0016-3sum-closest) | Java |
+| 18 | [4Sum](./0018-4sum) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 
