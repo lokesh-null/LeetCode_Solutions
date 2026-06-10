@@ -19,6 +19,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
+| 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 
 ## Backtracking
@@ -94,6 +95,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 
+## Monotonic Stack
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
+
 ## Prefix Sum
 
 | # | Problem | Language |
@@ -133,6 +140,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
+| 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 
 ## String
 
