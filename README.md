@@ -184,10 +184,17 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
+| 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
+
+## String Matching
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
 
 ## Trie
 
@@ -205,6 +212,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 16 | [3Sum Closest](./0016-3sum-closest) | Java |
 | 18 | [4Sum](./0018-4sum) | Java |
 | 19 | [Remove Nth Node From End of List](./0019-remove-nth-node-from-end-of-list) | Java |
+| 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 
