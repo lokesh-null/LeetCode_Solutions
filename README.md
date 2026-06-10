@@ -84,6 +84,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 2 | [Add Two Numbers](./0002-add-two-numbers) | Java |
+| 19 | [Remove Nth Node From End of List](./0019-remove-nth-node-from-end-of-list) | Java |
 | 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 
@@ -187,6 +188,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 15 | [3Sum](./0015-3sum) | Java |
 | 16 | [3Sum Closest](./0016-3sum-closest) | Java |
 | 18 | [4Sum](./0018-4sum) | Java |
+| 19 | [Remove Nth Node From End of List](./0019-remove-nth-node-from-end-of-list) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 
