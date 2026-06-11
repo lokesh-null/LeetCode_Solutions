@@ -16,6 +16,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 16 | [3Sum Closest](./0016-3sum-closest) | Java |
 | 18 | [4Sum](./0018-4sum) | Java |
 | 31 | [Next Permutation](./0031-next-permutation) | Java |
+| 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -77,6 +78,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
 | 30 | [Substring with Concatenation of All Words](./0030-substring-with-concatenation-of-all-words) | Java |
+| 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -112,6 +114,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
+
+## Matrix
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
 
 ## Memoization
 
