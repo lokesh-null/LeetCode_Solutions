@@ -15,6 +15,8 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 15 | [3Sum](./0015-3sum) | Java |
 | 16 | [3Sum Closest](./0016-3sum-closest) | Java |
 | 18 | [4Sum](./0018-4sum) | Java |
+| 26 | [Remove Duplicates from Sorted Array](./0026-remove-duplicates-from-sorted-array) | Java |
+| 27 | [Remove Element](./0027-remove-element) | Java |
 | 31 | [Next Permutation](./0031-next-permutation) | Java |
 | 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
@@ -226,6 +228,8 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 16 | [3Sum Closest](./0016-3sum-closest) | Java |
 | 18 | [4Sum](./0018-4sum) | Java |
 | 19 | [Remove Nth Node From End of List](./0019-remove-nth-node-from-end-of-list) | Java |
+| 26 | [Remove Duplicates from Sorted Array](./0026-remove-duplicates-from-sorted-array) | Java |
+| 27 | [Remove Element](./0027-remove-element) | Java |
 | 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
 | 31 | [Next Permutation](./0031-next-permutation) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
