@@ -61,6 +61,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
 | 10 | [Regular Expression Matching](./0010-regular-expression-matching) | Java |
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
+| 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 
 ## Greedy
@@ -181,6 +182,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
+| 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 
@@ -201,6 +203,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 | 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
 | 30 | [Substring with Concatenation of All Words](./0030-substring-with-concatenation-of-all-words) | Java |
+| 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
