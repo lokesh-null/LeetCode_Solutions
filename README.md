@@ -20,6 +20,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 31 | [Next Permutation](./0031-next-permutation) | Java |
 | 33 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array) | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array) | Java |
+| 35 | [Search Insert Position](./0035-search-insert-position) | Java |
 | 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
@@ -43,6 +44,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | Java |
 | 33 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array) | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array) | Java |
+| 35 | [Search Insert Position](./0035-search-insert-position) | Java |
 
 ## Bit Manipulation
 
