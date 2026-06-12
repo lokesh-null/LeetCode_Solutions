@@ -25,6 +25,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
+| 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Backtracking
 
@@ -45,6 +46,13 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
+| 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+
+## Depth-First Search
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Divide and Conquer
 
@@ -63,6 +71,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
+| 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Greedy
 
@@ -117,6 +126,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
+| 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Matrix
 
@@ -214,6 +224,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
+
+## Tree
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Trie
 
