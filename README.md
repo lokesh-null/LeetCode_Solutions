@@ -18,6 +18,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 26 | [Remove Duplicates from Sorted Array](./0026-remove-duplicates-from-sorted-array) | Java |
 | 27 | [Remove Element](./0027-remove-element) | Java |
 | 31 | [Next Permutation](./0031-next-permutation) | Java |
+| 33 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array) | Java |
 | 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
@@ -39,6 +40,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | Java |
+| 33 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array) | Java |
 
 ## Bit Manipulation
 
