@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 | 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+| 4216 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
 ## Backtracking
 
@@ -174,6 +175,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 25 | [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 
+## Simulation
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 4216 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
+
 ## Sliding Window
 
 | # | Problem | Language |
@@ -224,6 +231,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
+| 4216 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
 ## String Matching
 
