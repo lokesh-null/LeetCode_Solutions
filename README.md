@@ -22,6 +22,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 34 | [Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array) | Java |
 | 35 | [Search Insert Position](./0035-search-insert-position) | Java |
 | 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
+| 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -37,6 +38,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
+| 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 
 ## Binary Search
 
@@ -98,6 +100,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 17 | [Letter Combinations of a Phone Number](./0017-letter-combinations-of-a-phone-number) | Java |
 | 30 | [Substring with Concatenation of All Words](./0030-substring-with-concatenation-of-all-words) | Java |
 | 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
+| 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -140,6 +143,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
+| 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 
 ## Memoization
 
