@@ -231,6 +231,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
 | 30 | [Substring with Concatenation of All Words](./0030-substring-with-concatenation-of-all-words) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
+| 38 | [Count and Say](./0038-count-and-say) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
