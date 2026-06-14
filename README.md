@@ -29,6 +29,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
+| 1421 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 | 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 4216 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
@@ -138,6 +139,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
+| 1421 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Matrix
