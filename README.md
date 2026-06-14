@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 1421 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
+| 1603 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 | 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 4216 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
@@ -172,6 +173,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
+| 1603 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
 
 ## Recursion
 
