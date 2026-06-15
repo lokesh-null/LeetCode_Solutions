@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 39 | [Combination Sum](./0039-combination-sum) | Java |
 | 40 | [Combination Sum II](./0040-combination-sum-ii) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
+| 66 | [Plus One](./0066-plus-one) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
@@ -143,6 +144,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 12 | [Integer to Roman](./0012-integer-to-roman) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
+| 66 | [Plus One](./0066-plus-one) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 1421 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
