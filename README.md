@@ -24,6 +24,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
 | 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 | 39 | [Combination Sum](./0039-combination-sum) | Java |
+| 40 | [Combination Sum II](./0040-combination-sum-ii) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -44,6 +45,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 | 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 | 39 | [Combination Sum](./0039-combination-sum) | Java |
+| 40 | [Combination Sum II](./0040-combination-sum-ii) | Java |
 
 ## Binary Search
 
