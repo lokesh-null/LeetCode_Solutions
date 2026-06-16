@@ -197,6 +197,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 3931 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
 | 4216 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
 ## Sliding Window
@@ -252,6 +253,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
+| 3931 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
 | 4216 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
 ## String Matching
