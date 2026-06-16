@@ -25,6 +25,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 | 39 | [Combination Sum](./0039-combination-sum) | Java |
 | 40 | [Combination Sum II](./0040-combination-sum-ii) | Java |
+| 41 | [First Missing Positive](./0041-first-missing-positive) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
@@ -109,6 +110,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 30 | [Substring with Concatenation of All Words](./0030-substring-with-concatenation-of-all-words) | Java |
 | 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
 | 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
+| 41 | [First Missing Positive](./0041-first-missing-positive) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
