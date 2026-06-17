@@ -298,3 +298,11 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 2216 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2236 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/lokesh-null/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
+<!---LeetCode Topics End-->
