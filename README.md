@@ -133,6 +133,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
 | 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
 | 25 | [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group) | Java |
+| 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 2216 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2236 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
