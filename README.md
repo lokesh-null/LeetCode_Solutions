@@ -65,6 +65,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
+| 191 | [Number of 1 Bits](./0191-number-of-1-bits) | Java |
 | 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Database
@@ -88,6 +89,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | Java |
 | 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
+| 191 | [Number of 1 Bits](./0191-number-of-1-bits) | Java |
 
 ## Dynamic Programming
 
