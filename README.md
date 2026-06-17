@@ -67,6 +67,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 | 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
+## Database
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 175 | [Combine Two Tables](./0175-combine-two-tables) | Unknown |
+
 ## Depth-First Search
 
 | # | Problem | Language |
@@ -298,11 +304,3 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 2216 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2236 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Database
-|  |
-| ------- |
-| [0175-combine-two-tables](https://github.com/lokesh-null/LeetCode_Solutions/tree/master/0175-combine-two-tables) |
-<!---LeetCode Topics End-->
