@@ -73,6 +73,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 175 | [Combine Two Tables](./0175-combine-two-tables) | Unknown |
 | 181 | [Employees Earning More Than Their Managers](./0181-employees-earning-more-than-their-managers) | Unknown |
+| 182 | [Duplicate Emails](./0182-duplicate-emails) | Unknown |
 
 ## Depth-First Search
 
