@@ -57,6 +57,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 33 | [Search in Rotated Sorted Array](./0033-search-in-rotated-sorted-array) | Java |
 | 34 | [Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array) | Java |
 | 35 | [Search Insert Position](./0035-search-insert-position) | Java |
+| 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 
 ## Bit Manipulation
 
@@ -147,6 +148,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
+| 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 1421 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
