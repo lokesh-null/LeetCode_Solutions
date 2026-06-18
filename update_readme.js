@@ -91,12 +91,18 @@ async function main() {
       const titleSlug = match[1];
       const name = match[2];
       
-      const numMatch = name.match(/^(\d+)\.\s+(.*)$/);
+      // Extract problem number from the directory name (e.g., "0001-two-sum" -> 1)
+      // The folder names have the correct problem numbers, while the README titles
+      // may contain renumbered IDs from LeetCode.
+      const dirNumMatch = dir.match(/^(\d+)-/);
       let number = '';
       let problemName = name;
-      if (numMatch) {
-        number = numMatch[1];
-        problemName = numMatch[2];
+      if (dirNumMatch) {
+        number = parseInt(dirNumMatch[1], 10).toString();
+      }
+      const nameCleanMatch = name.match(/^\d+\.\s+(.*)$/);
+      if (nameCleanMatch) {
+        problemName = nameCleanMatch[1];
       }
 
       const language = getLanguageFromDir(path.join(rootDir, dir));

@@ -32,12 +32,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
-| 1421 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
-| 1603 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
-| 1791 | [Richest Customer Wealth](./1672-richest-customer-wealth) | Java |
+| 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
+| 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
+| 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
-| 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
-| 4216 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
+| 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+| 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
 ## Backtracking
 
@@ -66,7 +66,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 | 191 | [Number of 1 Bits](./0191-number-of-1-bits) | Java |
-| 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+| 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Database
 
@@ -80,7 +80,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
-| 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+| 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Divide and Conquer
 
@@ -100,7 +100,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
-| 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+| 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Greedy
 
@@ -145,8 +145,8 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 25 | [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group) | Java |
 | 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
-| 2216 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
-| 2236 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
+| 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
+| 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
 ## Math
 
@@ -163,8 +163,8 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 1344 | [Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock) | Java |
-| 1421 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
-| 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+| 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
+| 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Matrix
 
@@ -172,7 +172,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
 | 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
-| 1791 | [Richest Customer Wealth](./1672-richest-customer-wealth) | Java |
+| 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) | Java |
 
 ## Memoization
 
@@ -197,7 +197,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
-| 1603 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
+| 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
 
 ## Recursion
 
@@ -213,8 +213,8 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
-| 3931 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
-| 4216 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
+| 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
+| 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
 ## Sliding Window
 
@@ -243,7 +243,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
-| 2236 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
+| 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
 ## String
 
@@ -269,8 +269,8 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
-| 3931 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
-| 4216 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
+| 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
+| 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
 ## String Matching
 
@@ -282,7 +282,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
-| 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+| 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Trie
 
@@ -306,6 +306,6 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 31 | [Next Permutation](./0031-next-permutation) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
-| 2216 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
-| 2236 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
+| 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
+| 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
