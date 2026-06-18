@@ -163,6 +163,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 1421 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
+| 1446 | [Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock) | Java |
 | 3842 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Matrix
