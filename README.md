@@ -59,6 +59,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 35 | [Search Insert Position](./0035-search-insert-position) | Java |
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 
+## Binary Tree
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
+
 ## Bit Manipulation
 
 | # | Problem | Language |
@@ -80,6 +86,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Divide and Conquer
@@ -241,6 +248,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
+| 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
@@ -282,6 +290,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Trie
