@@ -59,12 +59,14 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 34 | [Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array) | Java |
 | 35 | [Search Insert Position](./0035-search-insert-position) | Java |
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
+| 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 
 ## Binary Tree
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
+| 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 
 ## Bit Manipulation
 
@@ -73,6 +75,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 | 191 | [Number of 1 Bits](./0191-number-of-1-bits) | Java |
+| 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Database
@@ -310,6 +313,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
+| 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Trie
