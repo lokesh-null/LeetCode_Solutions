@@ -131,6 +131,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 | 41 | [First Missing Positive](./0041-first-missing-positive) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
+| 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
@@ -277,6 +278,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 58 | [Length of Last Word](./0058-length-of-last-word) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
+| 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
