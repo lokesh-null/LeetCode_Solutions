@@ -159,6 +159,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
 | 25 | [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group) | Java |
 | 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list) | Java |
+| 206 | [Reverse Linked List](./0206-reverse-linked-list) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
@@ -229,6 +230,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 10 | [Regular Expression Matching](./0010-regular-expression-matching) | Java |
 | 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
 | 25 | [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group) | Java |
+| 206 | [Reverse Linked List](./0206-reverse-linked-list) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 
 ## Simulation
