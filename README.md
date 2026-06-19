@@ -90,6 +90,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
+## Design
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
+
 ## Divide and Conquer
 
 | # | Problem | Language |
@@ -209,6 +215,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude) | Java |
 
+## Queue
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
+
 ## Recursion
 
 | # | Problem | Language |
@@ -252,6 +264,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
+| 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
