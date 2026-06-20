@@ -183,6 +183,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
+| 263 | [Ugly Number](./0263-ugly-number) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 1344 | [Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
