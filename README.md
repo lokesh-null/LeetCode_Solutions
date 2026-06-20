@@ -178,6 +178,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 12 | [Integer to Roman](./0012-integer-to-roman) | Java |
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
+| 43 | [Multiply Strings](./0043-multiply-strings) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
@@ -242,6 +243,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 43 | [Multiply Strings](./0043-multiply-strings) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
@@ -296,6 +298,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 30 | [Substring with Concatenation of All Words](./0030-substring-with-concatenation-of-all-words) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 38 | [Count and Say](./0038-count-and-say) | Java |
+| 43 | [Multiply Strings](./0043-multiply-strings) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 58 | [Length of Last Word](./0058-length-of-last-word) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
