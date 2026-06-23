@@ -126,6 +126,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+| 3699 | [Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i) | Java |
 
 ## Greedy
 
@@ -231,6 +232,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude) | Java |
+| 3699 | [Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i) | Java |
 
 ## Queue
 
