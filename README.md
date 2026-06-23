@@ -78,6 +78,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 | 191 | [Number of 1 Bits](./0191-number-of-1-bits) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
+| 342 | [Power of Four](./0342-power-of-four) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Counting Sort
@@ -195,6 +196,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 263 | [Ugly Number](./0263-ugly-number) | Java |
 | 326 | [Power of Three](./0326-power-of-three) | Java |
+| 342 | [Power of Four](./0342-power-of-four) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 1344 | [Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
@@ -252,6 +254,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 206 | [Reverse Linked List](./0206-reverse-linked-list) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 326 | [Power of Three](./0326-power-of-three) | Java |
+| 342 | [Power of Four](./0342-power-of-four) | Java |
 
 ## Simulation
 
