@@ -62,6 +62,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 35 | [Search Insert Position](./0035-search-insert-position) | Java |
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
+| 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
 
 ## Binary Tree
 
@@ -197,6 +198,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 263 | [Ugly Number](./0263-ugly-number) | Java |
 | 326 | [Power of Three](./0326-power-of-three) | Java |
 | 342 | [Power of Four](./0342-power-of-four) | Java |
+| 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 1344 | [Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
