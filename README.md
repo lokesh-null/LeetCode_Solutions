@@ -83,6 +83,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 371 | [Sum of Two Integers](./0371-sum-of-two-integers) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
+## Counting
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
+
 ## Counting Sort
 
 | # | Problem | Language |
@@ -161,6 +167,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 290 | [Word Pattern](./0290-word-pattern) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
+| 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 
 ## Heap (Priority Queue)
 
@@ -331,6 +338,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 290 | [Word Pattern](./0290-word-pattern) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
+| 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
