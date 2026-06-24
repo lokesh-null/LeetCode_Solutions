@@ -52,6 +52,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 | 39 | [Combination Sum](./0039-combination-sum) | Java |
 | 40 | [Combination Sum II](./0040-combination-sum-ii) | Java |
+| 401 | [Binary Watch](./0401-binary-watch) | Java |
 
 ## Binary Search
 
@@ -83,6 +84,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 231 | [Power of Two](./0231-power-of-two) | Java |
 | 342 | [Power of Four](./0342-power-of-four) | Java |
 | 371 | [Sum of Two Integers](./0371-sum-of-two-integers) | Java |
+| 401 | [Binary Watch](./0401-binary-watch) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Counting
