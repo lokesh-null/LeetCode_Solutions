@@ -80,6 +80,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 | 191 | [Number of 1 Bits](./0191-number-of-1-bits) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
+| 231 | [Power of Two](./0231-power-of-two) | Java |
 | 342 | [Power of Four](./0342-power-of-four) | Java |
 | 371 | [Sum of Two Integers](./0371-sum-of-two-integers) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
@@ -206,6 +207,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
+| 231 | [Power of Two](./0231-power-of-two) | Java |
 | 263 | [Ugly Number](./0263-ugly-number) | Java |
 | 326 | [Power of Three](./0326-power-of-three) | Java |
 | 342 | [Power of Four](./0342-power-of-four) | Java |
@@ -266,6 +268,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
 | 25 | [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group) | Java |
 | 206 | [Reverse Linked List](./0206-reverse-linked-list) | Java |
+| 231 | [Power of Two](./0231-power-of-two) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 326 | [Power of Three](./0326-power-of-three) | Java |
 | 342 | [Power of Four](./0342-power-of-four) | Java |
