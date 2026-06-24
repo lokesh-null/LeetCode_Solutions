@@ -117,6 +117,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
+| 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
 
 ## Divide and Conquer
 
@@ -258,6 +259,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
+| 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
 
 ## Recursion
 
@@ -310,6 +312,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
+| 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
