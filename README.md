@@ -72,6 +72,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
+| 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 
 ## Bit Manipulation
 
@@ -86,6 +87,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 371 | [Sum of Two Integers](./0371-sum-of-two-integers) | Java |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+
+## Breadth-First Search
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 
 ## Counting
 
@@ -112,6 +119,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
+| 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Design
@@ -366,6 +374,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
+| 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Trie
