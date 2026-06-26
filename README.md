@@ -41,6 +41,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
+| 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
 ## Backtracking
@@ -137,6 +138,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 | 191 | [Number of 1 Bits](./0191-number-of-1-bits) | Java |
+| 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 
 ## Dynamic Programming
 
@@ -181,6 +183,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
+| 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 
 ## Heap (Priority Queue)
 
@@ -249,6 +252,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
+| 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 
 ## Monotonic Stack
 
@@ -264,6 +268,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude) | Java |
 | 3699 | [Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i) | Java |
+| 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 
 ## Queue
 
@@ -285,6 +290,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 326 | [Power of Three](./0326-power-of-three) | Java |
 | 342 | [Power of Four](./0342-power-of-four) | Java |
+
+## Segment Tree
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 
 ## Simulation
 
