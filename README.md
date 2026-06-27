@@ -31,6 +31,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
+| 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
@@ -188,6 +189,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 290 | [Word Pattern](./0290-word-pattern) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
+| 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
