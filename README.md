@@ -71,6 +71,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
+| 374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower) | Java |
 
 ## Binary Tree
 
@@ -204,6 +205,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
+
+## Interactive
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower) | Java |
 
 ## Linked List
 
