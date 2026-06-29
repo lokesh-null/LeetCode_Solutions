@@ -31,6 +31,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
+| 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
@@ -68,6 +69,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 35 | [Search Insert Position](./0035-search-insert-position) | Java |
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
+| 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
 
 ## Binary Tree
@@ -189,6 +191,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 290 | [Word Pattern](./0290-word-pattern) | Java |
+| 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
@@ -335,6 +338,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
+| 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
 
@@ -422,6 +426,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 31 | [Next Permutation](./0031-next-permutation) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
+| 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
