@@ -105,6 +105,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 383 | [Ransom Note](./0383-ransom-note) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 
 ## Counting Sort
@@ -193,6 +194,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 290 | [Word Pattern](./0290-word-pattern) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
+| 383 | [Ransom Note](./0383-ransom-note) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
@@ -389,6 +391,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 290 | [Word Pattern](./0290-word-pattern) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
+| 383 | [Ransom Note](./0383-ransom-note) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
