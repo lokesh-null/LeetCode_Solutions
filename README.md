@@ -340,6 +340,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 43 | [Multiply Strings](./0043-multiply-strings) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
+| 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
@@ -376,6 +377,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
+| 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
 ## String
@@ -412,6 +414,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
 | 796 | [Rotate String](./0796-rotate-string) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
+| 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 859 | [Buddy Strings](./0859-buddy-strings) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
@@ -457,6 +460,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
+| 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
