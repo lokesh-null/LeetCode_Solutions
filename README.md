@@ -400,6 +400,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
+| 796 | [Rotate String](./0796-rotate-string) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
@@ -410,6 +411,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
+| 796 | [Rotate String](./0796-rotate-string) | Java |
 
 ## Tree
 
