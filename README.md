@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
+| 860 | [Lemonade Change](./0860-lemonade-change) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
 | 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) | Java |
@@ -176,6 +177,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 11 | [Container With Most Water](./0011-container-with-most-water) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
+| 860 | [Lemonade Change](./0860-lemonade-change) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 
