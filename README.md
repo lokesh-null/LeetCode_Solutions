@@ -204,6 +204,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
+| 859 | [Buddy Strings](./0859-buddy-strings) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
@@ -405,6 +406,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
 | 796 | [Rotate String](./0796-rotate-string) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
+| 859 | [Buddy Strings](./0859-buddy-strings) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
