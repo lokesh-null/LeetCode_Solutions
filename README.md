@@ -110,6 +110,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 383 | [Ransom Note](./0383-ransom-note) | Java |
+| 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 
@@ -202,6 +203,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 290 | [Word Pattern](./0290-word-pattern) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 383 | [Ransom Note](./0383-ransom-note) | Java |
+| 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
@@ -309,6 +311,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
 | 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
+| 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Java |
 
 ## Recursion
 
@@ -403,6 +406,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 290 | [Word Pattern](./0290-word-pattern) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 | 383 | [Ransom Note](./0383-ransom-note) | Java |
+| 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
