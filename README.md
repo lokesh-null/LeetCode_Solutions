@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
+| 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
@@ -75,6 +76,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
 | 374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower) | Java |
+| 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 
 ## Binary Tree
 
@@ -104,6 +106,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
+| 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 
 ## Counting
 
@@ -218,6 +221,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
+| 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 
 ## Interactive
 
@@ -275,6 +279,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) | Java |
+| 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 
 ## Memoization
 
@@ -463,4 +468,10 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
+
+## Union-Find
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 
