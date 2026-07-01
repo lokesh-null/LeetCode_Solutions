@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
+| 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
@@ -419,6 +420,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
 | 796 | [Rotate String](./0796-rotate-string) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
+| 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 859 | [Buddy Strings](./0859-buddy-strings) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
@@ -465,6 +467,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
+| 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
