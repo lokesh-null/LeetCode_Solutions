@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+| 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
@@ -78,6 +79,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
 | 374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
+| 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 
 ## Binary Tree
 
@@ -168,6 +170,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+| 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 | 3699 | [Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i) | Java |
 
 ## Enumeration
@@ -175,6 +178,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
+
+## Graph Theory
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 
 ## Greedy
 
@@ -223,6 +232,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
+| 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 
 ## Interactive
 
@@ -339,6 +349,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 
+## Shortest Path
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
+
 ## Simulation
 
 | # | Problem | Language |
@@ -434,6 +450,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
 | 796 | [Rotate String](./0796-rotate-string) | Java |
+
+## Topological Sort
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 
 ## Tree
 
