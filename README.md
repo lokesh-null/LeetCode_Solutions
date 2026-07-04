@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 561 | [Array Partition](./0561-array-partition) | Java |
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
+| 682 | [Baseball Game](./0682-baseball-game) | Java |
 | 705 | [Design HashSet](./0705-design-hashset) | Java |
 | 706 | [Design HashMap](./0706-design-hashmap) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
@@ -393,6 +394,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 43 | [Multiply Strings](./0043-multiply-strings) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
+| 682 | [Baseball Game](./0682-baseball-game) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
@@ -432,6 +434,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
 | 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
+| 682 | [Baseball Game](./0682-baseball-game) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
