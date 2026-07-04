@@ -100,6 +100,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 231 | [Power of Two](./0231-power-of-two) | Java |
 | 342 | [Power of Four](./0342-power-of-four) | Java |
 | 371 | [Sum of Two Integers](./0371-sum-of-two-integers) | Java |
+| 389 | [Find the Difference](./0389-find-the-difference) | Java |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
@@ -220,6 +221,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 383 | [Ransom Note](./0383-ransom-note) | Java |
 | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Java |
+| 389 | [Find the Difference](./0389-find-the-difference) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
@@ -388,6 +390,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
+| 389 | [Find the Difference](./0389-find-the-difference) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
 
@@ -434,6 +437,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 | 383 | [Ransom Note](./0383-ransom-note) | Java |
 | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Java |
+| 389 | [Find the Difference](./0389-find-the-difference) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
