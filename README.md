@@ -38,6 +38,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 561 | [Array Partition](./0561-array-partition) | Java |
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
+| 705 | [Design HashSet](./0705-design-hashset) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
@@ -156,6 +157,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
 | 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
+| 705 | [Design HashSet](./0705-design-hashset) | Java |
 
 ## Divide and Conquer
 
@@ -206,6 +208,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 
+## Hash Function
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 705 | [Design HashSet](./0705-design-hashset) | Java |
+
 ## Hash Table
 
 | # | Problem | Language |
@@ -233,6 +241,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 500 | [Keyboard Row](./0500-keyboard-row) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
+| 705 | [Design HashSet](./0705-design-hashset) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 859 | [Buddy Strings](./0859-buddy-strings) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
@@ -265,6 +274,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list) | Java |
 | 206 | [Reverse Linked List](./0206-reverse-linked-list) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
+| 705 | [Design HashSet](./0705-design-hashset) | Java |
 | 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
