@@ -183,6 +183,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
+| 44 | [Wildcard Matching](./0044-wildcard-matching) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
@@ -207,6 +208,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 11 | [Container With Most Water](./0011-container-with-most-water) | Java |
+| 44 | [Wildcard Matching](./0044-wildcard-matching) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 561 | [Array Partition](./0561-array-partition) | Java |
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
@@ -372,6 +374,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 10 | [Regular Expression Matching](./0010-regular-expression-matching) | Java |
 | 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
 | 25 | [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group) | Java |
+| 44 | [Wildcard Matching](./0044-wildcard-matching) | Java |
 | 206 | [Reverse Linked List](./0206-reverse-linked-list) | Java |
 | 231 | [Power of Two](./0231-power-of-two) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
@@ -463,6 +466,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 38 | [Count and Say](./0038-count-and-say) | Java |
 | 43 | [Multiply Strings](./0043-multiply-strings) | Java |
+| 44 | [Wildcard Matching](./0044-wildcard-matching) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 58 | [Length of Last Word](./0058-length-of-last-word) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
