@@ -44,6 +44,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
+| 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
 | 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) | Java |
@@ -207,6 +208,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 561 | [Array Partition](./0561-array-partition) | Java |
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
+| 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 
@@ -305,6 +307,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
 | 371 | [Sum of Two Integers](./0371-sum-of-two-integers) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
+| 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 1344 | [Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
@@ -415,6 +418,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 389 | [Find the Difference](./0389-find-the-difference) | Java |
 | 561 | [Array Partition](./0561-array-partition) | Java |
+| 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
 
