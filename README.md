@@ -26,6 +26,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 39 | [Combination Sum](./0039-combination-sum) | Java |
 | 40 | [Combination Sum II](./0040-combination-sum-ii) | Java |
 | 41 | [First Missing Positive](./0041-first-missing-positive) | Java |
+| 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
@@ -181,6 +182,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 10 | [Regular Expression Matching](./0010-regular-expression-matching) | Java |
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
+| 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
@@ -341,6 +343,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 
 ## Prefix Sum
@@ -430,6 +433,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
+| 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
 | 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
@@ -527,6 +531,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 27 | [Remove Element](./0027-remove-element) | Java |
 | 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
 | 31 | [Next Permutation](./0031-next-permutation) | Java |
+| 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
