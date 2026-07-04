@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
+| 500 | [Keyboard Row](./0500-keyboard-row) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
@@ -227,6 +228,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 389 | [Find the Difference](./0389-find-the-difference) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
+| 500 | [Keyboard Row](./0500-keyboard-row) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 859 | [Buddy Strings](./0859-buddy-strings) | Java |
@@ -444,6 +446,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
+| 500 | [Keyboard Row](./0500-keyboard-row) | Java |
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
 | 796 | [Rotate String](./0796-rotate-string) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
