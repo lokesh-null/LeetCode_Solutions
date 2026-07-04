@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
+| 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
@@ -196,6 +197,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 11 | [Container With Most Water](./0011-container-with-most-water) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
+| 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
