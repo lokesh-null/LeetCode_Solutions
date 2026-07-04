@@ -172,6 +172,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
+| 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 | 3699 | [Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i) | Java |
@@ -438,6 +439,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 383 | [Ransom Note](./0383-ransom-note) | Java |
 | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Java |
 | 389 | [Find the Difference](./0389-find-the-difference) | Java |
+| 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
@@ -496,6 +498,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
+| 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
