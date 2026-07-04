@@ -477,6 +477,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 796 | [Rotate String](./0796-rotate-string) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
+| 830 | [Positions of Large Groups](./0830-positions-of-large-groups) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 859 | [Buddy Strings](./0859-buddy-strings) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
