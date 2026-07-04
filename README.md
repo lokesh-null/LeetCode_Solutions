@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 500 | [Keyboard Row](./0500-keyboard-row) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
+| 561 | [Array Partition](./0561-array-partition) | Java |
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
@@ -128,6 +129,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 561 | [Array Partition](./0561-array-partition) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 
 ## Database
@@ -198,6 +200,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 11 | [Container With Most Water](./0011-container-with-most-water) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
+| 561 | [Array Partition](./0561-array-partition) | Java |
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
@@ -396,6 +399,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 389 | [Find the Difference](./0389-find-the-difference) | Java |
+| 561 | [Array Partition](./0561-array-partition) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
 
