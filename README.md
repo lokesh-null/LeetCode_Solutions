@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
+| 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
 | 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) | Java |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude) | Java |
@@ -186,6 +187,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 44 | [Wildcard Matching](./0044-wildcard-matching) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
+| 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 | 3699 | [Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i) | Java |
@@ -325,6 +327,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
 | 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
+| 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 
