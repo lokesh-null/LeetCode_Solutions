@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 705 | [Design HashSet](./0705-design-hashset) | Java |
 | 706 | [Design HashMap](./0706-design-hashmap) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
+| 806 | [Number of Lines To Write String](./0806-number-of-lines-to-write-string) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
@@ -487,6 +488,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 500 | [Keyboard Row](./0500-keyboard-row) | Java |
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
 | 796 | [Rotate String](./0796-rotate-string) | Java |
+| 806 | [Number of Lines To Write String](./0806-number-of-lines-to-write-string) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
 | 830 | [Positions of Large Groups](./0830-positions-of-large-groups) | Java |
