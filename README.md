@@ -132,6 +132,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
+| 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
 
 ## Counting Sort
 
@@ -218,6 +219,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
+| 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 
@@ -497,6 +499,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 859 | [Buddy Strings](./0859-buddy-strings) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
+| 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
