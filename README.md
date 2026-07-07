@@ -133,6 +133,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 | 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
+| 1370 | [Increasing Decreasing String](./1370-increasing-decreasing-string) | Java |
 
 ## Counting Sort
 
@@ -262,6 +263,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 859 | [Buddy Strings](./0859-buddy-strings) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
+| 1370 | [Increasing Decreasing String](./1370-increasing-decreasing-string) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 
@@ -500,6 +502,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 859 | [Buddy Strings](./0859-buddy-strings) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 | 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
+| 1370 | [Increasing Decreasing String](./1370-increasing-decreasing-string) | Java |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
