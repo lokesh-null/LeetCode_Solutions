@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
+| 1089 | [Duplicate Zeros](./1089-duplicate-zeros) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
@@ -556,6 +557,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
+| 1089 | [Duplicate Zeros](./1089-duplicate-zeros) | Java |
 | 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
