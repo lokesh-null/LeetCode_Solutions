@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
+| 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
@@ -91,6 +92,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
 | 374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
+| 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 
 ## Binary Tree
@@ -208,6 +210,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 2492 | [Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities) | Java |
+| 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 
 ## Greedy
@@ -266,6 +269,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 | 1370 | [Increasing Decreasing String](./1370-increasing-decreasing-string) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
+| 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 
 ## Heap (Priority Queue)
@@ -567,4 +571,5 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 2492 | [Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
+| 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 
