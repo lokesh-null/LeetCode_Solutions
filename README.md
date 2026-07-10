@@ -497,6 +497,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 290 | [Word Pattern](./0290-word-pattern) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
+| 345 | [Reverse Vowels of a String](./0345-reverse-vowels-of-a-string) | Java |
 | 383 | [Ransom Note](./0383-ransom-note) | Java |
 | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Java |
 | 389 | [Find the Difference](./0389-find-the-difference) | Java |
@@ -564,6 +565,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
+| 345 | [Reverse Vowels of a String](./0345-reverse-vowels-of-a-string) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
