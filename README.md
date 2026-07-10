@@ -61,6 +61,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
+| 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
@@ -93,6 +94,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
+| 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 
 ## Binary Tree
@@ -116,6 +118,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 371 | [Sum of Two Integers](./0371-sum-of-two-integers) | Java |
 | 389 | [Find the Difference](./0389-find-the-difference) | Java |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
+| 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Breadth-First Search
@@ -195,6 +198,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
+| 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 | 3699 | [Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i) | Java |
@@ -211,6 +215,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 2492 | [Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities) | Java |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
+| 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 
 ## Greedy
@@ -226,6 +231,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 | 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
+| 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 
 ## Hash Function
@@ -445,6 +451,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
+| 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 
 ## Stack
 
@@ -564,6 +571,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1089 | [Duplicate Zeros](./1089-duplicate-zeros) | Java |
 | 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
+| 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 
 ## Union-Find
 
