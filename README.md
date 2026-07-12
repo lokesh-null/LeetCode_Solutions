@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 | 1089 | [Duplicate Zeros](./1089-duplicate-zeros) | Java |
+| 1200 | [Minimum Absolute Difference](./1200-minimum-absolute-difference) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 1331 | [Rank Transform of an Array](./1331-rank-transform-of-an-array) | Java |
@@ -454,6 +455,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 389 | [Find the Difference](./0389-find-the-difference) | Java |
 | 561 | [Array Partition](./0561-array-partition) | Java |
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
+| 1200 | [Minimum Absolute Difference](./1200-minimum-absolute-difference) | Java |
 | 1331 | [Rank Transform of an Array](./1331-rank-transform-of-an-array) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
