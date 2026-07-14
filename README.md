@@ -30,6 +30,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 45 | [Jump Game II](./0045-jump-game-ii) | Java |
 | 46 | [Permutations](./0046-permutations) | Java |
 | 47 | [Permutations II](./0047-permutations-ii) | Java |
+| 48 | [Rotate Image](./0048-rotate-image) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
@@ -333,6 +334,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 13 | [Roman to Integer](./0013-roman-to-integer) | Java |
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 43 | [Multiply Strings](./0043-multiply-strings) | Java |
+| 48 | [Rotate Image](./0048-rotate-image) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
@@ -357,6 +359,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
 | 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
+| 48 | [Rotate Image](./0048-rotate-image) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 661 | [Image Smoother](./0661-image-smoother) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
