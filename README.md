@@ -28,6 +28,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 41 | [First Missing Positive](./0041-first-missing-positive) | Java |
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 45 | [Jump Game II](./0045-jump-game-ii) | Java |
+| 46 | [Permutations](./0046-permutations) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
@@ -80,6 +81,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 | 39 | [Combination Sum](./0039-combination-sum) | Java |
 | 40 | [Combination Sum II](./0040-combination-sum-ii) | Java |
+| 46 | [Permutations](./0046-permutations) | Java |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
 
 ## Binary Search
