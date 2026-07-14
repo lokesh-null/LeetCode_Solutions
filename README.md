@@ -35,6 +35,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 51 | [N-Queens](./0051-n-queens) | Java |
 | 53 | [Maximum Subarray](./0053-maximum-subarray) | Java |
 | 54 | [Spiral Matrix](./0054-spiral-matrix) | Java |
+| 55 | [Jump Game](./0055-jump-game) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -212,6 +213,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 44 | [Wildcard Matching](./0044-wildcard-matching) | Java |
 | 45 | [Jump Game II](./0045-jump-game-ii) | Java |
 | 53 | [Maximum Subarray](./0053-maximum-subarray) | Java |
+| 55 | [Jump Game](./0055-jump-game) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
@@ -243,6 +245,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 11 | [Container With Most Water](./0011-container-with-most-water) | Java |
 | 44 | [Wildcard Matching](./0044-wildcard-matching) | Java |
 | 45 | [Jump Game II](./0045-jump-game-ii) | Java |
+| 55 | [Jump Game](./0055-jump-game) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 561 | [Array Partition](./0561-array-partition) | Java |
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
