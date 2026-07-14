@@ -146,6 +146,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
+## Brainteaser
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 292 | [Nim Game](./0292-nim-game) | Java |
+
 ## Breadth-First Search
 
 | # | Problem | Language |
@@ -251,6 +257,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
+
+## Game Theory
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 292 | [Nim Game](./0292-nim-game) | Java |
 
 ## Graph Theory
 
@@ -381,6 +393,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 231 | [Power of Two](./0231-power-of-two) | Java |
 | 263 | [Ugly Number](./0263-ugly-number) | Java |
+| 292 | [Nim Game](./0292-nim-game) | Java |
 | 326 | [Power of Three](./0326-power-of-three) | Java |
 | 342 | [Power of Four](./0342-power-of-four) | Java |
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
