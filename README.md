@@ -43,6 +43,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 64 | [Minimum Path Sum](./0064-minimum-path-sum) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 68 | [Text Justification](./0068-text-justification) | Java |
+| 73 | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
@@ -297,6 +298,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 | 41 | [First Missing Positive](./0041-first-missing-positive) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
+| 73 | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -398,6 +400,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 59 | [Spiral Matrix II](./0059-spiral-matrix-ii) | Java |
 | 63 | [Unique Paths II](./0063-unique-paths-ii) | Java |
 | 64 | [Minimum Path Sum](./0064-minimum-path-sum) | Java |
+| 73 | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 661 | [Image Smoother](./0661-image-smoother) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
