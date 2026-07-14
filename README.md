@@ -34,6 +34,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 51 | [N-Queens](./0051-n-queens) | Java |
 | 53 | [Maximum Subarray](./0053-maximum-subarray) | Java |
+| 54 | [Spiral Matrix](./0054-spiral-matrix) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -366,6 +367,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 36 | [Valid Sudoku](./0036-valid-sudoku) | Java |
 | 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
 | 48 | [Rotate Image](./0048-rotate-image) | Java |
+| 54 | [Spiral Matrix](./0054-spiral-matrix) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 661 | [Image Smoother](./0661-image-smoother) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
@@ -443,6 +445,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 43 | [Multiply Strings](./0043-multiply-strings) | Java |
+| 54 | [Spiral Matrix](./0054-spiral-matrix) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
 | 682 | [Baseball Game](./0682-baseball-game) | Java |
