@@ -335,6 +335,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 43 | [Multiply Strings](./0043-multiply-strings) | Java |
 | 48 | [Rotate Image](./0048-rotate-image) | Java |
+| 50 | [Pow(x, n)](./0050-powx-n) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
@@ -413,6 +414,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 21 | [Merge Two Sorted Lists](./0021-merge-two-sorted-lists) | Java |
 | 25 | [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group) | Java |
 | 44 | [Wildcard Matching](./0044-wildcard-matching) | Java |
+| 50 | [Pow(x, n)](./0050-powx-n) | Java |
 | 206 | [Reverse Linked List](./0206-reverse-linked-list) | Java |
 | 231 | [Power of Two](./0231-power-of-two) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
