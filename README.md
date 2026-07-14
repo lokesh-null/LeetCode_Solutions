@@ -33,6 +33,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 48 | [Rotate Image](./0048-rotate-image) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 51 | [N-Queens](./0051-n-queens) | Java |
+| 53 | [Maximum Subarray](./0053-maximum-subarray) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -193,6 +194,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 4 | [Median of Two Sorted Arrays](./0004-median-of-two-sorted-arrays) | Java |
 | 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
+| 53 | [Maximum Subarray](./0053-maximum-subarray) | Java |
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 | 191 | [Number of 1 Bits](./0191-number-of-1-bits) | Java |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
@@ -208,6 +210,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 44 | [Wildcard Matching](./0044-wildcard-matching) | Java |
 | 45 | [Jump Game II](./0045-jump-game-ii) | Java |
+| 53 | [Maximum Subarray](./0053-maximum-subarray) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
