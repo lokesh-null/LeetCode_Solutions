@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
+| 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
@@ -213,6 +214,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
 | 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
+| 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Java |
 | 705 | [Design HashSet](./0705-design-hashset) | Java |
 | 706 | [Design HashMap](./0706-design-hashmap) | Java |
 
@@ -449,6 +451,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude) | Java |
