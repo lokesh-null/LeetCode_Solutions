@@ -147,6 +147,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 2685 | [Count the Number of Complete Components](./2685-count-the-number-of-complete-components) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 
+## Combinatorics
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 62 | [Unique Paths](./0062-unique-paths) | Java |
+
 ## Counting
 
 | # | Problem | Language |
@@ -217,6 +223,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 45 | [Jump Game II](./0045-jump-game-ii) | Java |
 | 53 | [Maximum Subarray](./0053-maximum-subarray) | Java |
 | 55 | [Jump Game](./0055-jump-game) | Java |
+| 62 | [Unique Paths](./0062-unique-paths) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
@@ -350,6 +357,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 48 | [Rotate Image](./0048-rotate-image) | Java |
 | 50 | [Pow(x, n)](./0050-powx-n) | Java |
 | 60 | [Permutation Sequence](./0060-permutation-sequence) | Java |
+| 62 | [Unique Paths](./0062-unique-paths) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
