@@ -39,6 +39,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 56 | [Merge Intervals](./0056-merge-intervals) | Java |
 | 57 | [Insert Interval](./0057-insert-interval) | Java |
 | 59 | [Spiral Matrix II](./0059-spiral-matrix-ii) | Java |
+| 63 | [Unique Paths II](./0063-unique-paths-ii) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -224,6 +225,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 53 | [Maximum Subarray](./0053-maximum-subarray) | Java |
 | 55 | [Jump Game](./0055-jump-game) | Java |
 | 62 | [Unique Paths](./0062-unique-paths) | Java |
+| 63 | [Unique Paths II](./0063-unique-paths-ii) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
@@ -385,6 +387,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 48 | [Rotate Image](./0048-rotate-image) | Java |
 | 54 | [Spiral Matrix](./0054-spiral-matrix) | Java |
 | 59 | [Spiral Matrix II](./0059-spiral-matrix-ii) | Java |
+| 63 | [Unique Paths II](./0063-unique-paths-ii) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 661 | [Image Smoother](./0661-image-smoother) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
