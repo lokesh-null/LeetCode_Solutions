@@ -128,6 +128,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
+| 67 | [Add Binary](./0067-add-binary) | Java |
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 | 191 | [Number of 1 Bits](./0191-number-of-1-bits) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
@@ -363,6 +364,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 60 | [Permutation Sequence](./0060-permutation-sequence) | Java |
 | 62 | [Unique Paths](./0062-unique-paths) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
+| 67 | [Add Binary](./0067-add-binary) | Java |
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
@@ -471,6 +473,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 43 | [Multiply Strings](./0043-multiply-strings) | Java |
 | 54 | [Spiral Matrix](./0054-spiral-matrix) | Java |
 | 59 | [Spiral Matrix II](./0059-spiral-matrix-ii) | Java |
+| 67 | [Add Binary](./0067-add-binary) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
 | 682 | [Baseball Game](./0682-baseball-game) | Java |
@@ -548,6 +551,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 58 | [Length of Last Word](./0058-length-of-last-word) | Java |
 | 65 | [Valid Number](./0065-valid-number) | Java |
+| 67 | [Add Binary](./0067-add-binary) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
