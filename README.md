@@ -231,6 +231,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 63 | [Unique Paths II](./0063-unique-paths-ii) | Java |
 | 64 | [Minimum Path Sum](./0064-minimum-path-sum) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
+| 72 | [Edit Distance](./0072-edit-distance) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
@@ -557,6 +558,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 67 | [Add Binary](./0067-add-binary) | Java |
 | 68 | [Text Justification](./0068-text-justification) | Java |
 | 71 | [Simplify Path](./0071-simplify-path) | Java |
+| 72 | [Edit Distance](./0072-edit-distance) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
