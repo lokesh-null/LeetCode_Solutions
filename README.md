@@ -32,6 +32,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 47 | [Permutations II](./0047-permutations-ii) | Java |
 | 48 | [Rotate Image](./0048-rotate-image) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
+| 51 | [N-Queens](./0051-n-queens) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -85,6 +86,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 40 | [Combination Sum II](./0040-combination-sum-ii) | Java |
 | 46 | [Permutations](./0046-permutations) | Java |
 | 47 | [Permutations II](./0047-permutations-ii) | Java |
+| 51 | [N-Queens](./0051-n-queens) | Java |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
 
 ## Binary Search
