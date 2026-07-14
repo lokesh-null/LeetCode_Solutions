@@ -44,6 +44,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 68 | [Text Justification](./0068-text-justification) | Java |
 | 73 | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | Java |
+| 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
@@ -108,6 +109,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 34 | [Find First and Last Position of Element in Sorted Array](./0034-find-first-and-last-position-of-element-in-sorted-array) | Java |
 | 35 | [Search Insert Position](./0035-search-insert-position) | Java |
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
+| 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
@@ -401,6 +403,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 63 | [Unique Paths II](./0063-unique-paths-ii) | Java |
 | 64 | [Minimum Path Sum](./0064-minimum-path-sum) | Java |
 | 73 | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | Java |
+| 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 661 | [Image Smoother](./0661-image-smoother) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
