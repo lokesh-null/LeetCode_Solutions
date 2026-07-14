@@ -36,6 +36,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 53 | [Maximum Subarray](./0053-maximum-subarray) | Java |
 | 54 | [Spiral Matrix](./0054-spiral-matrix) | Java |
 | 55 | [Jump Game](./0055-jump-game) | Java |
+| 56 | [Merge Intervals](./0056-merge-intervals) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -473,6 +474,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 18 | [4Sum](./0018-4sum) | Java |
 | 47 | [Permutations II](./0047-permutations-ii) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
+| 56 | [Merge Intervals](./0056-merge-intervals) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
