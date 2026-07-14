@@ -123,6 +123,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
+| 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
 
 ## Bit Manipulation
 
@@ -146,6 +147,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
+| 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 2492 | [Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities) | Java |
 | 2685 | [Count the Number of Complete Components](./2685-count-the-number-of-complete-components) | Java |
@@ -189,6 +191,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
+| 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 2492 | [Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities) | Java |
 | 2685 | [Count the Number of Complete Components](./2685-count-the-number-of-complete-components) | Java |
@@ -607,6 +610,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
+| 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
 ## Trie
