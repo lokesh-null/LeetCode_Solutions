@@ -37,6 +37,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 54 | [Spiral Matrix](./0054-spiral-matrix) | Java |
 | 55 | [Jump Game](./0055-jump-game) | Java |
 | 56 | [Merge Intervals](./0056-merge-intervals) | Java |
+| 57 | [Insert Interval](./0057-insert-interval) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
