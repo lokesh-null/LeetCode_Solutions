@@ -42,6 +42,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 63 | [Unique Paths II](./0063-unique-paths-ii) | Java |
 | 64 | [Minimum Path Sum](./0064-minimum-path-sum) | Java |
 | 66 | [Plus One](./0066-plus-one) | Java |
+| 68 | [Text Justification](./0068-text-justification) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
@@ -474,6 +475,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 54 | [Spiral Matrix](./0054-spiral-matrix) | Java |
 | 59 | [Spiral Matrix II](./0059-spiral-matrix-ii) | Java |
 | 67 | [Add Binary](./0067-add-binary) | Java |
+| 68 | [Text Justification](./0068-text-justification) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
 | 682 | [Baseball Game](./0682-baseball-game) | Java |
@@ -552,6 +554,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 58 | [Length of Last Word](./0058-length-of-last-word) | Java |
 | 65 | [Valid Number](./0065-valid-number) | Java |
 | 67 | [Add Binary](./0067-add-binary) | Java |
+| 68 | [Text Justification](./0068-text-justification) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
