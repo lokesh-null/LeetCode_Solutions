@@ -547,6 +547,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 44 | [Wildcard Matching](./0044-wildcard-matching) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 58 | [Length of Last Word](./0058-length-of-last-word) | Java |
+| 65 | [Valid Number](./0065-valid-number) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
