@@ -111,6 +111,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
+| 278 | [First Bad Version](./0278-first-bad-version) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
 | 374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower) | Java |
@@ -337,6 +338,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 278 | [First Bad Version](./0278-first-bad-version) | Java |
 | 374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower) | Java |
 
 ## Linked List
