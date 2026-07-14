@@ -520,6 +520,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
+| 71 | [Simplify Path](./0071-simplify-path) | Java |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
 | 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
@@ -555,6 +556,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 65 | [Valid Number](./0065-valid-number) | Java |
 | 67 | [Add Binary](./0067-add-binary) | Java |
 | 68 | [Text Justification](./0068-text-justification) | Java |
+| 71 | [Simplify Path](./0071-simplify-path) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
