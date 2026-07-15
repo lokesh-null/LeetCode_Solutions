@@ -406,6 +406,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1344 | [Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+| 3658 | [GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums) | Java |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](./3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | Java |
 
 ## Matrix
@@ -446,6 +447,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
+
+## Number Theory
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 3658 | [GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums) | Java |
 
 ## Prefix Sum
 
