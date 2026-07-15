@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 75 | [Sort Colors](./0075-sort-colors) | Java |
 | 78 | [Subsets](./0078-subsets) | Java |
 | 79 | [Word Search](./0079-word-search) | Java |
+| 81 | [Search in Rotated Sorted Array II](./0081-search-in-rotated-sorted-array-ii) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
@@ -117,6 +118,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 35 | [Search Insert Position](./0035-search-insert-position) | Java |
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Java |
+| 81 | [Search in Rotated Sorted Array II](./0081-search-in-rotated-sorted-array-ii) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 | 278 | [First Bad Version](./0278-first-bad-version) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
