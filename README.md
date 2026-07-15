@@ -260,6 +260,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 72 | [Edit Distance](./0072-edit-distance) | Java |
 | 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
+| 87 | [Scramble String](./0087-scramble-string) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
@@ -381,6 +382,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 61 | [Rotate List](./0061-rotate-list) | Java |
 | 82 | [Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii) | Java |
 | 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list) | Java |
+| 86 | [Partition List](./0086-partition-list) | Java |
 | 206 | [Reverse Linked List](./0206-reverse-linked-list) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 705 | [Design HashSet](./0705-design-hashset) | Java |
@@ -618,6 +620,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 72 | [Edit Distance](./0072-edit-distance) | Java |
 | 76 | [Minimum Window Substring](./0076-minimum-window-substring) | Java |
 | 79 | [Word Search](./0079-word-search) | Java |
+| 87 | [Scramble String](./0087-scramble-string) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
@@ -693,6 +696,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 61 | [Rotate List](./0061-rotate-list) | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Java |
 | 82 | [Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii) | Java |
+| 86 | [Partition List](./0086-partition-list) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 | 345 | [Reverse Vowels of a String](./0345-reverse-vowels-of-a-string) | Java |
