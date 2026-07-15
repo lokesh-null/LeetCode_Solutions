@@ -45,6 +45,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 68 | [Text Justification](./0068-text-justification) | Java |
 | 73 | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | Java |
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Java |
+| 75 | [Sort Colors](./0075-sort-colors) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
@@ -536,6 +537,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 47 | [Permutations II](./0047-permutations-ii) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 56 | [Merge Intervals](./0056-merge-intervals) | Java |
+| 75 | [Sort Colors](./0075-sort-colors) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
@@ -666,6 +668,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 31 | [Next Permutation](./0031-next-permutation) | Java |
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 61 | [Rotate List](./0061-rotate-list) | Java |
+| 75 | [Sort Colors](./0075-sort-colors) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 | 345 | [Reverse Vowels of a String](./0345-reverse-vowels-of-a-string) | Java |
