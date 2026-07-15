@@ -46,6 +46,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 73 | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | Java |
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Java |
+| 78 | [Subsets](./0078-subsets) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
@@ -101,6 +102,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 47 | [Permutations II](./0047-permutations-ii) | Java |
 | 51 | [N-Queens](./0051-n-queens) | Java |
 | 77 | [Combinations](./0077-combinations) | Java |
+| 78 | [Subsets](./0078-subsets) | Java |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
 
 ## Binary Search
@@ -138,6 +140,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 67 | [Add Binary](./0067-add-binary) | Java |
+| 78 | [Subsets](./0078-subsets) | Java |
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 | 191 | [Number of 1 Bits](./0191-number-of-1-bits) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
