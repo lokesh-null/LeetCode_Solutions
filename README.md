@@ -111,6 +111,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 79 | [Word Search](./0079-word-search) | Java |
 | 89 | [Gray Code](./0089-gray-code) | Java |
 | 90 | [Subsets II](./0090-subsets-ii) | Unknown |
+| 93 | [Restore IP Addresses](./0093-restore-ip-addresses) | Java |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
 
 ## Binary Search
@@ -629,6 +630,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 79 | [Word Search](./0079-word-search) | Java |
 | 87 | [Scramble String](./0087-scramble-string) | Java |
 | 91 | [Decode Ways](./0091-decode-ways) | Unknown |
+| 93 | [Restore IP Addresses](./0093-restore-ip-addresses) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
