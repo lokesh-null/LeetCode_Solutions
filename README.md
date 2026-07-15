@@ -108,6 +108,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 77 | [Combinations](./0077-combinations) | Java |
 | 78 | [Subsets](./0078-subsets) | Java |
 | 79 | [Word Search](./0079-word-search) | Java |
+| 89 | [Gray Code](./0089-gray-code) | Java |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
 
 ## Binary Search
@@ -147,6 +148,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 29 | [Divide Two Integers](./0029-divide-two-integers) | Java |
 | 67 | [Add Binary](./0067-add-binary) | Java |
 | 78 | [Subsets](./0078-subsets) | Java |
+| 89 | [Gray Code](./0089-gray-code) | Java |
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 | 191 | [Number of 1 Bits](./0191-number-of-1-bits) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
@@ -409,6 +411,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 67 | [Add Binary](./0067-add-binary) | Java |
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
+| 89 | [Gray Code](./0089-gray-code) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 231 | [Power of Two](./0231-power-of-two) | Java |
 | 263 | [Ugly Number](./0263-ugly-number) | Java |
