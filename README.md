@@ -317,6 +317,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 41 | [First Missing Positive](./0041-first-missing-positive) | Java |
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 73 | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | Java |
+| 76 | [Minimum Window Substring](./0076-minimum-window-substring) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -525,6 +526,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 3 | [Longest Substring Without Repeating Characters](./0003-longest-substring-without-repeating-characters) | Java |
 | 30 | [Substring with Concatenation of All Words](./0030-substring-with-concatenation-of-all-words) | Java |
+| 76 | [Minimum Window Substring](./0076-minimum-window-substring) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 
 ## Sorting
@@ -595,6 +597,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 68 | [Text Justification](./0068-text-justification) | Java |
 | 71 | [Simplify Path](./0071-simplify-path) | Java |
 | 72 | [Edit Distance](./0072-edit-distance) | Java |
+| 76 | [Minimum Window Substring](./0076-minimum-window-substring) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
