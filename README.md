@@ -376,6 +376,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
 | 25 | [Reverse Nodes in k-Group](./0025-reverse-nodes-in-k-group) | Java |
 | 61 | [Rotate List](./0061-rotate-list) | Java |
+| 82 | [Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii) | Java |
 | 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list) | Java |
 | 206 | [Reverse Linked List](./0206-reverse-linked-list) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
@@ -683,6 +684,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 61 | [Rotate List](./0061-rotate-list) | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Java |
+| 82 | [Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 | 345 | [Reverse Vowels of a String](./0345-reverse-vowels-of-a-string) | Java |
