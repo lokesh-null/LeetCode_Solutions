@@ -47,6 +47,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Java |
 | 78 | [Subsets](./0078-subsets) | Java |
+| 79 | [Word Search](./0079-word-search) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
@@ -103,6 +104,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 51 | [N-Queens](./0051-n-queens) | Java |
 | 77 | [Combinations](./0077-combinations) | Java |
 | 78 | [Subsets](./0078-subsets) | Java |
+| 79 | [Word Search](./0079-word-search) | Java |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
 
 ## Binary Search
@@ -205,6 +207,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 79 | [Word Search](./0079-word-search) | Java |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 | 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
@@ -428,6 +431,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 64 | [Minimum Path Sum](./0064-minimum-path-sum) | Java |
 | 73 | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | Java |
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Java |
+| 79 | [Word Search](./0079-word-search) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 661 | [Image Smoother](./0661-image-smoother) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
@@ -602,6 +606,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 71 | [Simplify Path](./0071-simplify-path) | Java |
 | 72 | [Edit Distance](./0072-edit-distance) | Java |
 | 76 | [Minimum Window Substring](./0076-minimum-window-substring) | Java |
+| 79 | [Word Search](./0079-word-search) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
