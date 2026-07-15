@@ -100,6 +100,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 46 | [Permutations](./0046-permutations) | Java |
 | 47 | [Permutations II](./0047-permutations-ii) | Java |
 | 51 | [N-Queens](./0051-n-queens) | Java |
+| 77 | [Combinations](./0077-combinations) | Java |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
 
 ## Binary Search
