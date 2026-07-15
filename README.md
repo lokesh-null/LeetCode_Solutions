@@ -51,6 +51,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 81 | [Search in Rotated Sorted Array II](./0081-search-in-rotated-sorted-array-ii) | Java |
 | 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram) | Java |
 | 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
+| 90 | [Subsets II](./0090-subsets-ii) | Unknown |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
@@ -109,6 +110,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 78 | [Subsets](./0078-subsets) | Java |
 | 79 | [Word Search](./0079-word-search) | Java |
 | 89 | [Gray Code](./0089-gray-code) | Java |
+| 90 | [Subsets II](./0090-subsets-ii) | Unknown |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
 
 ## Binary Search
@@ -149,6 +151,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 67 | [Add Binary](./0067-add-binary) | Java |
 | 78 | [Subsets](./0078-subsets) | Java |
 | 89 | [Gray Code](./0089-gray-code) | Java |
+| 90 | [Subsets II](./0090-subsets-ii) | Unknown |
 | 190 | [Reverse Bits](./0190-reverse-bits) | Java |
 | 191 | [Number of 1 Bits](./0191-number-of-1-bits) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
@@ -263,6 +266,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 72 | [Edit Distance](./0072-edit-distance) | Java |
 | 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
 | 87 | [Scramble String](./0087-scramble-string) | Java |
+| 91 | [Decode Ways](./0091-decode-ways) | Unknown |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
@@ -624,6 +628,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 76 | [Minimum Window Substring](./0076-minimum-window-substring) | Java |
 | 79 | [Word Search](./0079-word-search) | Java |
 | 87 | [Scramble String](./0087-scramble-string) | Java |
+| 91 | [Decode Ways](./0091-decode-ways) | Unknown |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
