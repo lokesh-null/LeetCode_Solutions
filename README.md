@@ -50,6 +50,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 79 | [Word Search](./0079-word-search) | Java |
 | 81 | [Search in Rotated Sorted Array II](./0081-search-in-rotated-sorted-array-ii) | Java |
 | 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram) | Java |
+| 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
@@ -258,6 +259,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 64 | [Minimum Path Sum](./0064-minimum-path-sum) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 72 | [Edit Distance](./0072-edit-distance) | Java |
+| 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
@@ -436,6 +438,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 73 | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | Java |
 | 74 | [Search a 2D Matrix](./0074-search-a-2d-matrix) | Java |
 | 79 | [Word Search](./0079-word-search) | Java |
+| 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 661 | [Image Smoother](./0661-image-smoother) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
@@ -461,6 +464,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram) | Java |
+| 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 
 ## Number Theory
@@ -574,6 +578,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 71 | [Simplify Path](./0071-simplify-path) | Java |
 | 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram) | Java |
+| 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
 | 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
