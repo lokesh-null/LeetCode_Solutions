@@ -49,6 +49,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 78 | [Subsets](./0078-subsets) | Java |
 | 79 | [Word Search](./0079-word-search) | Java |
 | 81 | [Search in Rotated Sorted Array II](./0081-search-in-rotated-sorted-array-ii) | Java |
+| 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
@@ -459,6 +460,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
+| 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 
 ## Number Theory
@@ -571,6 +573,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 71 | [Simplify Path](./0071-simplify-path) | Java |
+| 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram) | Java |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
 | 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
