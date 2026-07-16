@@ -68,6 +68,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 697 | [Degree of an Array](./0697-degree-of-an-array) | Java |
 | 705 | [Design HashSet](./0705-design-hashset) | Java |
 | 706 | [Design HashMap](./0706-design-hashmap) | Java |
+| 724 | [Find Pivot Index](./0724-find-pivot-index) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 806 | [Number of Lines To Write String](./0806-number-of-lines-to-write-string) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
@@ -494,6 +495,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 303 | [Range Sum Query - Immutable](./0303-range-sum-query-immutable) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
+| 724 | [Find Pivot Index](./0724-find-pivot-index) | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude) | Java |
 | 3699 | [Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i) | Java |
