@@ -93,6 +93,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
+| 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
 
 ## Backtracking
 
@@ -433,6 +434,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3658 | [GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums) | Java |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](./3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | Java |
+| 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
 
 ## Matrix
 
@@ -482,6 +484,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 3658 | [GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums) | Java |
+| 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
 
 ## Prefix Sum
 
@@ -546,6 +549,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
+| 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
 
 ## Sliding Window
 
@@ -578,6 +582,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
+| 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
 
 ## Stack
 
@@ -718,6 +723,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
+| 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
 
 ## Union-Find
 
