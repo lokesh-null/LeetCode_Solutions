@@ -65,6 +65,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
 | 661 | [Image Smoother](./0661-image-smoother) | Java |
 | 682 | [Baseball Game](./0682-baseball-game) | Java |
+| 697 | [Degree of an Array](./0697-degree-of-an-array) | Java |
 | 705 | [Design HashSet](./0705-design-hashset) | Java |
 | 706 | [Design HashMap](./0706-design-hashmap) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
@@ -352,6 +353,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 500 | [Keyboard Row](./0500-keyboard-row) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
+| 697 | [Degree of an Array](./0697-degree-of-an-array) | Java |
 | 705 | [Design HashSet](./0705-design-hashset) | Java |
 | 706 | [Design HashMap](./0706-design-hashmap) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
