@@ -70,6 +70,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 706 | [Design HashMap](./0706-design-hashmap) | Java |
 | 724 | [Find Pivot Index](./0724-find-pivot-index) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
+| 744 | [Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target) | Java |
 | 806 | [Number of Lines To Write String](./0806-number-of-lines-to-write-string) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
@@ -133,6 +134,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
 | 374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower) | Java |
+| 744 | [Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
