@@ -89,6 +89,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
+| 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
@@ -136,6 +137,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower) | Java |
 | 744 | [Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
+| 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
@@ -191,6 +193,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 62 | [Unique Paths](./0062-unique-paths) | Java |
+| 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 
 ## Counting
 
@@ -202,6 +205,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 | 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
 | 1370 | [Increasing Decreasing String](./1370-increasing-decreasing-string) | Java |
+| 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 
 ## Counting Sort
 
@@ -365,6 +369,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1331 | [Rank Transform of an Array](./1331-rank-transform-of-an-array) | Java |
 | 1370 | [Increasing Decreasing String](./1370-increasing-decreasing-string) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
+| 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 
@@ -436,6 +441,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 1344 | [Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
+| 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3658 | [GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums) | Java |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](./3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | Java |
@@ -488,6 +494,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3658 | [GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums) | Java |
 | 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
 
@@ -500,6 +507,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 724 | [Find Pivot Index](./0724-find-pivot-index) | Java |
 | 1480 | [Running Sum of 1d Array](./1480-running-sum-of-1d-array) | Java |
 | 1732 | [Find the Highest Altitude](./1732-find-the-highest-altitude) | Java |
+| 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3699 | [Number of ZigZag Arrays I](./3699-number-of-zigzag-arrays-i) | Java |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 
