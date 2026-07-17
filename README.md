@@ -156,6 +156,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 95 | [Unique Binary Search Trees II](./0095-unique-binary-search-trees-ii) | Java |
+| 101 | [Symmetric Tree](./0101-symmetric-tree) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 | 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
@@ -190,6 +191,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 101 | [Symmetric Tree](./0101-symmetric-tree) | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 | 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
@@ -237,6 +239,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 79 | [Word Search](./0079-word-search) | Java |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
+| 101 | [Symmetric Tree](./0101-symmetric-tree) | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 | 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
@@ -708,6 +711,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 95 | [Unique Binary Search Trees II](./0095-unique-binary-search-trees-ii) | Java |
+| 101 | [Symmetric Tree](./0101-symmetric-tree) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 | 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
