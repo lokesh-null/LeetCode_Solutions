@@ -48,6 +48,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 75 | [Sort Colors](./0075-sort-colors) | Java |
 | 78 | [Subsets](./0078-subsets) | Java |
 | 79 | [Word Search](./0079-word-search) | Java |
+| 80 | [Remove Duplicates from Sorted Array II](./0080-remove-duplicates-from-sorted-array-ii) | Java |
 | 81 | [Search in Rotated Sorted Array II](./0081-search-in-rotated-sorted-array-ii) | Java |
 | 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram) | Java |
 | 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
@@ -724,6 +725,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 61 | [Rotate List](./0061-rotate-list) | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Java |
+| 80 | [Remove Duplicates from Sorted Array II](./0080-remove-duplicates-from-sorted-array-ii) | Java |
 | 82 | [Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii) | Java |
 | 86 | [Partition List](./0086-partition-list) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
