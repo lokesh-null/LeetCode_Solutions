@@ -335,6 +335,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
+| 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 | 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
@@ -507,6 +508,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram) | Java |
 | 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
+| 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 
 ## Number Theory
 
@@ -634,6 +636,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 682 | [Baseball Game](./0682-baseball-game) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
+| 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
 ## String
@@ -690,6 +693,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 830 | [Positions of Large Groups](./0830-positions-of-large-groups) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 859 | [Buddy Strings](./0859-buddy-strings) | Java |
+| 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 | 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
 | 1370 | [Increasing Decreasing String](./1370-increasing-decreasing-string) | Java |
