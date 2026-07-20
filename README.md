@@ -79,6 +79,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 | 1089 | [Duplicate Zeros](./1089-duplicate-zeros) | Java |
 | 1200 | [Minimum Absolute Difference](./1200-minimum-absolute-difference) | Java |
+| 1260 | [Shift 2D Grid](./1260-shift-2d-grid) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 1331 | [Rank Transform of an Array](./1331-rank-transform-of-an-array) | Java |
@@ -483,6 +484,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 661 | [Image Smoother](./0661-image-smoother) | Java |
+| 1260 | [Shift 2D Grid](./1260-shift-2d-grid) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
@@ -582,6 +584,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
 | 682 | [Baseball Game](./0682-baseball-game) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
+| 1260 | [Shift 2D Grid](./1260-shift-2d-grid) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 | 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
