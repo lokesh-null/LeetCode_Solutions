@@ -306,6 +306,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
+| 3499 | [Maximize Active Section with Trade I](./3499-maximize-active-section-with-trade-i) | Java |
 
 ## Game Theory
 
@@ -701,6 +702,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
 | 1370 | [Increasing Decreasing String](./1370-increasing-decreasing-string) | Java |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
+| 3499 | [Maximize Active Section with Trade I](./3499-maximize-active-section-with-trade-i) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
