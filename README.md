@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
+| 496 | [Next Greater Element I](./0496-next-greater-element-i) | Java |
 | 500 | [Keyboard Row](./0500-keyboard-row) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 561 | [Array Partition](./0561-array-partition) | Java |
@@ -379,6 +380,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 389 | [Find the Difference](./0389-find-the-difference) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
+| 496 | [Next Greater Element I](./0496-next-greater-element-i) | Java |
 | 500 | [Keyboard Row](./0500-keyboard-row) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 697 | [Degree of an Array](./0697-degree-of-an-array) | Java |
@@ -512,6 +514,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 42 | [Trapping Rain Water](./0042-trapping-rain-water) | Java |
 | 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram) | Java |
 | 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
+| 496 | [Next Greater Element I](./0496-next-greater-element-i) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 
@@ -639,6 +642,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
 | 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
+| 496 | [Next Greater Element I](./0496-next-greater-element-i) | Java |
 | 682 | [Baseball Game](./0682-baseball-game) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
