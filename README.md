@@ -177,6 +177,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 191 | [Number of 1 Bits](./0191-number-of-1-bits) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 | 231 | [Power of Two](./0231-power-of-two) | Java |
+| 338 | [Counting Bits](./0338-counting-bits) | Java |
 | 342 | [Power of Four](./0342-power-of-four) | Java |
 | 371 | [Sum of Two Integers](./0371-sum-of-two-integers) | Java |
 | 389 | [Find the Difference](./0389-find-the-difference) | Java |
@@ -294,6 +295,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 87 | [Scramble String](./0087-scramble-string) | Java |
 | 91 | [Decode Ways](./0091-decode-ways) | Unknown |
 | 95 | [Unique Binary Search Trees II](./0095-unique-binary-search-trees-ii) | Java |
+| 338 | [Counting Bits](./0338-counting-bits) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
