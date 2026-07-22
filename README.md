@@ -94,6 +94,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
 | 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
+| 3501 | [Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii) | Java |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
@@ -143,6 +144,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 744 | [Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
+| 3501 | [Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii) | Java |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
@@ -569,6 +571,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 3501 | [Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii) | Java |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 
 ## Shortest Path
@@ -709,6 +712,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1370 | [Increasing Decreasing String](./1370-increasing-decreasing-string) | Java |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
 | 3499 | [Maximize Active Section with Trade I](./3499-maximize-active-section-with-trade-i) | Java |
+| 3501 | [Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
