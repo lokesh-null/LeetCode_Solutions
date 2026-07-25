@@ -476,6 +476,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3513 | [Number of Unique XOR Triplets I](./3513-number-of-unique-xor-triplets-i) | Java |
 | 3514 | [Number of Unique XOR Triplets II](./3514-number-of-unique-xor-triplets-ii) | Java |
+| 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3658 | [GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums) | Java |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](./3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | Java |
@@ -636,6 +637,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
+| 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits) | Java |
 | 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
 
 ## Stack
