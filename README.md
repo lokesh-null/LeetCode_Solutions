@@ -156,6 +156,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 95 | [Unique Binary Search Trees II](./0095-unique-binary-search-trees-ii) | Java |
+| 96 | [Unique Binary Search Trees](./0096-unique-binary-search-trees) | Java |
 
 ## Binary Tree
 
@@ -163,6 +164,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 95 | [Unique Binary Search Trees II](./0095-unique-binary-search-trees-ii) | Java |
+| 96 | [Unique Binary Search Trees](./0096-unique-binary-search-trees) | Java |
 | 101 | [Symmetric Tree](./0101-symmetric-tree) | Java |
 | 102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
@@ -302,6 +304,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 87 | [Scramble String](./0087-scramble-string) | Java |
 | 91 | [Decode Ways](./0091-decode-ways) | Unknown |
 | 95 | [Unique Binary Search Trees II](./0095-unique-binary-search-trees-ii) | Java |
+| 96 | [Unique Binary Search Trees](./0096-unique-binary-search-trees) | Java |
 | 338 | [Counting Bits](./0338-counting-bits) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
@@ -459,6 +462,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 69 | [Sqrt(x)](./0069-sqrtx) | Java |
 | 70 | [Climbing Stairs](./0070-climbing-stairs) | Java |
 | 89 | [Gray Code](./0089-gray-code) | Java |
+| 96 | [Unique Binary Search Trees](./0096-unique-binary-search-trees) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 231 | [Power of Two](./0231-power-of-two) | Java |
 | 263 | [Ugly Number](./0263-ugly-number) | Java |
@@ -744,6 +748,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 95 | [Unique Binary Search Trees II](./0095-unique-binary-search-trees-ii) | Java |
+| 96 | [Unique Binary Search Trees](./0096-unique-binary-search-trees) | Java |
 | 101 | [Symmetric Tree](./0101-symmetric-tree) | Java |
 | 102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
