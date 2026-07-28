@@ -238,6 +238,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 561 | [Array Partition](./0561-array-partition) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
+| 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i) | Java |
 
 ## Database
 
@@ -640,6 +641,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1331 | [Rank Transform of an Array](./1331-rank-transform-of-an-array) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
+| 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits) | Java |
 | 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
@@ -726,6 +728,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
 | 3499 | [Maximize Active Section with Trade I](./3499-maximize-active-section-with-trade-i) | Java |
 | 3501 | [Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii) | Java |
+| 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i) | Java |
 | 3612 | [Process String with Special Operations I](./3612-process-string-with-special-operations-i) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
 
