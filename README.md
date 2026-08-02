@@ -77,6 +77,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
+| 877 | [Stone Game](./0877-stone-game) | Java |
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 | 1089 | [Duplicate Zeros](./1089-duplicate-zeros) | Java |
 | 1200 | [Minimum Absolute Difference](./1200-minimum-absolute-difference) | Java |
@@ -308,6 +309,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 96 | [Unique Binary Search Trees](./0096-unique-binary-search-trees) | Java |
 | 338 | [Counting Bits](./0338-counting-bits) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
+| 877 | [Stone Game](./0877-stone-game) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
@@ -327,6 +329,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 292 | [Nim Game](./0292-nim-game) | Java |
+| 877 | [Stone Game](./0877-stone-game) | Java |
 
 ## Graph Theory
 
@@ -474,6 +477,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
 | 371 | [Sum of Two Integers](./0371-sum-of-two-integers) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
+| 877 | [Stone Game](./0877-stone-game) | Java |
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
 | 1344 | [Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock) | Java |
