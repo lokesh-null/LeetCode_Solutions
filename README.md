@@ -4,6 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 
 This repository contains my solutions to LeetCode problems, categorized by **Topic**.
 
+## Algorithm X
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
+| 51 | [N-Queens](./0051-n-queens) | Java |
+
 ## Array
 
 | # | Problem | Language |
@@ -168,6 +175,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 96 | [Unique Binary Search Trees](./0096-unique-binary-search-trees) | Java |
 | 101 | [Symmetric Tree](./0101-symmetric-tree) | Java |
 | 102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal) | Java |
+| 199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 | 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
@@ -195,6 +203,20 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 
+## Boyer–Moore String-Search Algorithm
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
+
+## Bracket Sequences
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
+| 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
+| 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
+
 ## Brainteaser
 
 | # | Problem | Language |
@@ -207,12 +229,19 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 101 | [Symmetric Tree](./0101-symmetric-tree) | Java |
 | 102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal) | Java |
+| 199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view) | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 | 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 2492 | [Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities) | Java |
 | 2685 | [Count the Number of Complete Components](./2685-count-the-number-of-complete-components) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
+
+## Bubble Sort
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 75 | [Sort Colors](./0075-sort-colors) | Java |
 
 ## Combinatorics
 
@@ -241,6 +270,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i) | Java |
 
+## Dancing Links
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 37 | [Sudoku Solver](./0037-sudoku-solver) | Java |
+
 ## Database
 
 | # | Problem | Language |
@@ -256,6 +291,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 79 | [Word Search](./0079-word-search) | Java |
 | 94 | [Binary Tree Inorder Traversal](./0094-binary-tree-inorder-traversal) | Java |
 | 101 | [Symmetric Tree](./0101-symmetric-tree) | Java |
+| 199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view) | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 | 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
@@ -324,6 +360,13 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3499 | [Maximize Active Section with Trade I](./3499-maximize-active-section-with-trade-i) | Java |
 | 3514 | [Number of Unique XOR Triplets II](./3514-number-of-unique-xor-triplets-ii) | Java |
 
+## Euclidean Algorithm
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 1979 | [Find Greatest Common Divisor of Array](./1979-find-greatest-common-divisor-of-array) | Java |
+| 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
+
 ## Game Theory
 
 | # | Problem | Language |
@@ -340,6 +383,13 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
+
+## Greatest Common Divisor
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 1979 | [Find Greatest Common Divisor of Array](./1979-find-greatest-common-divisor-of-array) | Java |
+| 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 
 ## Greedy
 
@@ -419,12 +469,24 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 
+## Impartial Game
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 292 | [Nim Game](./0292-nim-game) | Java |
+
 ## Interactive
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 278 | [First Bad Version](./0278-first-bad-version) | Java |
 | 374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower) | Java |
+
+## Knuth–Morris–Pratt Algorithm
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
 
 ## Linked List
 
@@ -446,6 +508,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 706 | [Design HashMap](./0706-design-hashmap) | Java |
 | 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
+
+## Manacher
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 5 | [Longest Palindromic Substring](./0005-longest-palindromic-substring) | Java |
 
 ## Math
 
@@ -528,6 +596,13 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 
+## Minimax
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 292 | [Nim Game](./0292-nim-game) | Java |
+| 877 | [Stone Game](./0877-stone-game) | Java |
+
 ## Monotonic Stack
 
 | # | Problem | Language |
@@ -539,6 +614,18 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 
+## Newton's Method
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 69 | [Sqrt(x)](./0069-sqrtx) | Java |
+
+## Nim Game
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 292 | [Nim Game](./0292-nim-game) | Java |
+
 ## Number Theory
 
 | # | Problem | Language |
@@ -547,6 +634,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3658 | [GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums) | Java |
 | 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
+
+## Polygons
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 
 ## Prefix Sum
 
@@ -568,6 +661,20 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 225 | [Implement Stack using Queues](./0225-implement-stack-using-queues) | Java |
 | 232 | [Implement Queue using Stacks](./0232-implement-queue-using-stacks) | Java |
 | 387 | [First Unique Character in a String](./0387-first-unique-character-in-a-string) | Java |
+
+## Quicksort
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 56 | [Merge Intervals](./0056-merge-intervals) | Java |
+| 75 | [Sort Colors](./0075-sort-colors) | Java |
+| 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
+
+## Range Minimum/Maximum Query
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram) | Java |
 
 ## Recursion
 
@@ -752,6 +859,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | :---: | :--- | :---: |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
 
+## Tournament Sort
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 23 | [Merge k Sorted Lists](./0023-merge-k-sorted-lists) | Java |
+
 ## Tree
 
 | # | Problem | Language |
@@ -761,6 +874,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 96 | [Unique Binary Search Trees](./0096-unique-binary-search-trees) | Java |
 | 101 | [Symmetric Tree](./0101-symmetric-tree) | Java |
 | 102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal) | Java |
+| 199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view) | Java |
 | 222 | [Count Complete Tree Nodes](./0222-count-complete-tree-nodes) | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
 | 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
@@ -813,4 +927,16 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 2685 | [Count the Number of Complete Components](./2685-count-the-number-of-complete-components) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
+
+## Z Algorithm
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 28 | [Find the Index of the First Occurrence in a String](./0028-find-the-index-of-the-first-occurrence-in-a-string) | Java |
+
+## Zero-Sum Game
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 877 | [Stone Game](./0877-stone-game) | Java |
 
