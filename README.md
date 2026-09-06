@@ -343,6 +343,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 91 | [Decode Ways](./0091-decode-ways) | Unknown |
 | 95 | [Unique Binary Search Trees II](./0095-unique-binary-search-trees-ii) | Java |
 | 96 | [Unique Binary Search Trees](./0096-unique-binary-search-trees) | Java |
+| 115 | [Distinct Subsequences](./0115-distinct-subsequences) | Java |
 | 338 | [Counting Bits](./0338-counting-bits) | Java |
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 877 | [Stone Game](./0877-stone-game) | Java |
@@ -813,6 +814,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 87 | [Scramble String](./0087-scramble-string) | Java |
 | 91 | [Decode Ways](./0091-decode-ways) | Unknown |
 | 93 | [Restore IP Addresses](./0093-restore-ip-addresses) | Java |
+| 115 | [Distinct Subsequences](./0115-distinct-subsequences) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
