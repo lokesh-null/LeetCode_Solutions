@@ -71,6 +71,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 500 | [Keyboard Row](./0500-keyboard-row) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
 | 561 | [Array Partition](./0561-array-partition) | Java |
+| 599 | [Minimum Index Sum of Two Lists](./0599-minimum-index-sum-of-two-lists) | Java |
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
 | 661 | [Image Smoother](./0661-image-smoother) | Java |
 | 682 | [Baseball Game](./0682-baseball-game) | Java |
@@ -449,6 +450,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 496 | [Next Greater Element I](./0496-next-greater-element-i) | Java |
 | 500 | [Keyboard Row](./0500-keyboard-row) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
+| 599 | [Minimum Index Sum of Two Lists](./0599-minimum-index-sum-of-two-lists) | Java |
 | 697 | [Degree of an Array](./0697-degree-of-an-array) | Java |
 | 705 | [Design HashSet](./0705-design-hashset) | Java |
 | 706 | [Design HashMap](./0706-design-hashmap) | Java |
@@ -828,6 +830,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
 | 500 | [Keyboard Row](./0500-keyboard-row) | Java |
+| 599 | [Minimum Index Sum of Two Lists](./0599-minimum-index-sum-of-two-lists) | Java |
 | 657 | [Robot Return to Origin](./0657-robot-return-to-origin) | Java |
 | 796 | [Rotate String](./0796-rotate-string) | Java |
 | 806 | [Number of Lines To Write String](./0806-number-of-lines-to-write-string) | Java |
