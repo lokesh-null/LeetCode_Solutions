@@ -60,6 +60,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 84 | [Largest Rectangle in Histogram](./0084-largest-rectangle-in-histogram) | Java |
 | 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
 | 90 | [Subsets II](./0090-subsets-ii) | Unknown |
+| 179 | [Largest Number](./0179-largest-number) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
 | 228 | [Summary Ranges](./0228-summary-ranges) | Java |
@@ -401,6 +402,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 44 | [Wildcard Matching](./0044-wildcard-matching) | Java |
 | 45 | [Jump Game II](./0045-jump-game-ii) | Java |
 | 55 | [Jump Game](./0055-jump-game) | Java |
+| 179 | [Largest Number](./0179-largest-number) | Java |
 | 409 | [Longest Palindrome](./0409-longest-palindrome) | Java |
 | 561 | [Array Partition](./0561-array-partition) | Java |
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
@@ -750,6 +752,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 56 | [Merge Intervals](./0056-merge-intervals) | Java |
 | 75 | [Sort Colors](./0075-sort-colors) | Java |
+| 179 | [Largest Number](./0179-largest-number) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
@@ -821,6 +824,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 93 | [Restore IP Addresses](./0093-restore-ip-addresses) | Java |
 | 115 | [Distinct Subsequences](./0115-distinct-subsequences) | Java |
 | 171 | [Excel Sheet Column Number](./0171-excel-sheet-column-number) | Java |
+| 179 | [Largest Number](./0179-largest-number) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 290 | [Word Pattern](./0290-word-pattern) | Java |
