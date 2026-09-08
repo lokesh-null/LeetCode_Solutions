@@ -436,6 +436,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 49 | [Group Anagrams](./0049-group-anagrams) | Java |
 | 73 | [Set Matrix Zeroes](./0073-set-matrix-zeroes) | Java |
 | 76 | [Minimum Window Substring](./0076-minimum-window-substring) | Java |
+| 160 | [Intersection of Two Linked Lists](./0160-intersection-of-two-linked-lists) | Java |
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 217 | [Contains Duplicate](./0217-contains-duplicate) | Java |
 | 219 | [Contains Duplicate II](./0219-contains-duplicate-ii) | Java |
@@ -505,6 +506,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 83 | [Remove Duplicates from Sorted List](./0083-remove-duplicates-from-sorted-list) | Java |
 | 86 | [Partition List](./0086-partition-list) | Java |
 | 92 | [Reverse Linked List II](./0092-reverse-linked-list-ii) | Java |
+| 160 | [Intersection of Two Linked Lists](./0160-intersection-of-two-linked-lists) | Java |
 | 206 | [Reverse Linked List](./0206-reverse-linked-list) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 705 | [Design HashSet](./0705-design-hashset) | Java |
@@ -912,6 +914,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 80 | [Remove Duplicates from Sorted Array II](./0080-remove-duplicates-from-sorted-array-ii) | Java |
 | 82 | [Remove Duplicates from Sorted List II](./0082-remove-duplicates-from-sorted-list-ii) | Java |
 | 86 | [Partition List](./0086-partition-list) | Java |
+| 160 | [Intersection of Two Linked Lists](./0160-intersection-of-two-linked-lists) | Java |
 | 234 | [Palindrome Linked List](./0234-palindrome-linked-list) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 | 345 | [Reverse Vowels of a String](./0345-reverse-vowels-of-a-string) | Java |
