@@ -563,6 +563,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3658 | [GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums) | Java |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](./3754-concatenate-non-zero-digits-and-multiply-by-sum-i) | Java |
 | 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
+| 3870 | [Count Commas in Range](./3870-count-commas-in-range) | Java |
 
 ## Matrix
 
