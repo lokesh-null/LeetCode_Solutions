@@ -85,6 +85,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 806 | [Number of Lines To Write String](./0806-number-of-lines-to-write-string) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
+| 835 | [Image Overlap](./0835-image-overlap) | Java |
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
 | 877 | [Stone Game](./0877-stone-game) | Java |
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
@@ -586,6 +587,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 85 | [Maximal Rectangle](./0085-maximal-rectangle) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 661 | [Image Smoother](./0661-image-smoother) | Java |
+| 835 | [Image Overlap](./0835-image-overlap) | Java |
 | 1260 | [Shift 2D Grid](./1260-shift-2d-grid) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) | Java |
