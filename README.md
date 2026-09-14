@@ -68,6 +68,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 349 | [Intersection of Two Arrays](./0349-intersection-of-two-arrays) | Java |
 | 448 | [Find All Numbers Disappeared in an Array](./0448-find-all-numbers-disappeared-in-an-array) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
+| 485 | [Max Consecutive Ones](./0485-max-consecutive-ones) | Java |
 | 496 | [Next Greater Element I](./0496-next-greater-element-i) | Java |
 | 500 | [Keyboard Row](./0500-keyboard-row) | Java |
 | 560 | [Subarray Sum Equals K](./0560-subarray-sum-equals-k) | Java |
