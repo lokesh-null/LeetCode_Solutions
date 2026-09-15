@@ -352,6 +352,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 877 | [Stone Game](./0877-stone-game) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
@@ -413,6 +414,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 | 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings) | Java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
@@ -854,6 +856,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
 | 1370 | [Increasing Decreasing String](./1370-increasing-decreasing-string) | Java |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings) | Java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i) | Java |
 | 3499 | [Maximize Active Section with Trade I](./3499-maximize-active-section-with-trade-i) | Java |
 | 3501 | [Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii) | Java |
@@ -932,6 +935,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1089 | [Duplicate Zeros](./1089-duplicate-zeros) | Java |
 | 2095 | [Delete the Middle Node of a Linked List](./2095-delete-the-middle-node-of-a-linked-list) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
+| 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
 
