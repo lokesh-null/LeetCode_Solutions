@@ -109,6 +109,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3501 | [Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii) | Java |
 | 3513 | [Number of Unique XOR Triplets I](./3513-number-of-unique-xor-triplets-i) | Java |
 | 3514 | [Number of Unique XOR Triplets II](./3514-number-of-unique-xor-triplets-ii) | Java |
+| 3524 | [Find X Value of Array I](./3524-find-x-value-of-array-i) | Java |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
@@ -353,6 +354,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 877 | [Stone Game](./0877-stone-game) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings) | Java |
+| 3524 | [Find X Value of Array I](./3524-find-x-value-of-array-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
@@ -566,6 +568,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3513 | [Number of Unique XOR Triplets I](./3513-number-of-unique-xor-triplets-i) | Java |
 | 3514 | [Number of Unique XOR Triplets II](./3514-number-of-unique-xor-triplets-ii) | Java |
+| 3524 | [Find X Value of Array I](./3524-find-x-value-of-array-i) | Java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3658 | [GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums) | Java |
