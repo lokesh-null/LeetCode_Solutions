@@ -110,6 +110,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3513 | [Number of Unique XOR Triplets I](./3513-number-of-unique-xor-triplets-i) | Java |
 | 3514 | [Number of Unique XOR Triplets II](./3514-number-of-unique-xor-triplets-ii) | Java |
 | 3524 | [Find X Value of Array I](./3524-find-x-value-of-array-i) | Java |
+| 3525 | [Find X Value of Array II](./3525-find-x-value-of-array-ii) | Java |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
@@ -569,6 +570,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3513 | [Number of Unique XOR Triplets I](./3513-number-of-unique-xor-triplets-i) | Java |
 | 3514 | [Number of Unique XOR Triplets II](./3514-number-of-unique-xor-triplets-ii) | Java |
 | 3524 | [Find X Value of Array I](./3524-find-x-value-of-array-i) | Java |
+| 3525 | [Find X Value of Array II](./3525-find-x-value-of-array-ii) | Java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3658 | [GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums) | Java |
@@ -714,6 +716,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 3501 | [Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii) | Java |
+| 3525 | [Find X Value of Array II](./3525-find-x-value-of-array-ii) | Java |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 
 ## Shortest Path
