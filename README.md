@@ -104,6 +104,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
 | 1979 | [Find Greatest Common Divisor of Array](./1979-find-greatest-common-divisor-of-array) | Java |
+| 2267 | [Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
 | 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
@@ -223,6 +224,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
+| 2267 | [Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path) | Java |
 
 ## Brainteaser
 
@@ -355,6 +357,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 392 | [Is Subsequence](./0392-is-subsequence) | Java |
 | 877 | [Stone Game](./0877-stone-game) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
+| 2267 | [Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path) | Java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings) | Java |
 | 3524 | [Find X Value of Array I](./3524-find-x-value-of-array-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
@@ -601,6 +604,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1260 | [Shift 2D Grid](./1260-shift-2d-grid) | Java |
 | 1301 | [Number of Paths with Max Score](./1301-number-of-paths-with-max-score) | Java |
 | 1672 | [Richest Customer Wealth](./1672-richest-customer-wealth) | Java |
+| 2267 | [Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 
 ## Memoization
