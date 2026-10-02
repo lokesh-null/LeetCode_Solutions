@@ -84,6 +84,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 744 | [Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target) | Java |
 | 806 | [Number of Lines To Write String](./0806-number-of-lines-to-write-string) | Java |
+| 812 | [Largest Triangle Area](./0812-largest-triangle-area) | Java |
 | 819 | [Most Common Word](./0819-most-common-word) | Java |
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
 | 835 | [Image Overlap](./0835-image-overlap) | Java |
@@ -387,6 +388,12 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 292 | [Nim Game](./0292-nim-game) | Java |
 | 877 | [Stone Game](./0877-stone-game) | Java |
 
+## Geometry
+
+| # | Problem | Language |
+| :---: | :--- | :---: |
+| 812 | [Largest Triangle Area](./0812-largest-triangle-area) | Java |
+
 ## Graph Theory
 
 | # | Problem | Language |
@@ -564,6 +571,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
 | 371 | [Sum of Two Integers](./0371-sum-of-two-integers) | Java |
 | 415 | [Add Strings](./0415-add-strings) | Java |
+| 812 | [Largest Triangle Area](./0812-largest-triangle-area) | Java |
 | 877 | [Stone Game](./0877-stone-game) | Java |
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 | 1295 | [Find Numbers with Even Number of Digits](./1295-find-numbers-with-even-number-of-digits) | Java |
@@ -663,6 +671,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 
 | # | Problem | Language |
 | :---: | :--- | :---: |
+| 812 | [Largest Triangle Area](./0812-largest-triangle-area) | Java |
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 
 ## Prefix Sum
