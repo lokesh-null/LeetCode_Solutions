@@ -207,6 +207,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 371 | [Sum of Two Integers](./0371-sum-of-two-integers) | Java |
 | 389 | [Find the Difference](./0389-find-the-difference) | Java |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
+| 476 | [Number Complement](./0476-number-complement) | Java |
 | 3513 | [Number of Unique XOR Triplets I](./3513-number-of-unique-xor-triplets-i) | Java |
 | 3514 | [Number of Unique XOR Triplets II](./3514-number-of-unique-xor-triplets-ii) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
