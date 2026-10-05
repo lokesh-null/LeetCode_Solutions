@@ -226,6 +226,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 20 | [Valid Parentheses](./0020-valid-parentheses) | Java |
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
+| 856 | [Score of Parentheses](./0856-score-of-parentheses) | Java |
 | 2267 | [Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path) | Java |
 
 ## Brainteaser
@@ -813,6 +814,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 682 | [Baseball Game](./0682-baseball-game) | Java |
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
+| 856 | [Score of Parentheses](./0856-score-of-parentheses) | Java |
 | 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
@@ -872,6 +874,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 821 | [Shortest Distance to a Character](./0821-shortest-distance-to-a-character) | Java |
 | 830 | [Positions of Large Groups](./0830-positions-of-large-groups) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
+| 856 | [Score of Parentheses](./0856-score-of-parentheses) | Java |
 | 859 | [Buddy Strings](./0859-buddy-strings) | Java |
 | 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
