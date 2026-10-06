@@ -227,6 +227,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 22 | [Generate Parentheses](./0022-generate-parentheses) | Java |
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 856 | [Score of Parentheses](./0856-score-of-parentheses) | Java |
+| 921 | [Minimum Add to Make Parentheses Valid](./0921-minimum-add-to-make-parentheses-valid) | Java |
 | 2267 | [Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path) | Java |
 
 ## Brainteaser
@@ -426,6 +427,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 561 | [Array Partition](./0561-array-partition) | Java |
 | 605 | [Can Place Flowers](./0605-can-place-flowers) | Java |
 | 860 | [Lemonade Change](./0860-lemonade-change) | Java |
+| 921 | [Minimum Add to Make Parentheses Valid](./0921-minimum-add-to-make-parentheses-valid) | Java |
 | 976 | [Largest Perimeter Triangle](./0976-largest-perimeter-triangle) | Java |
 | 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 | 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
@@ -815,6 +817,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 739 | [Daily Temperatures](./0739-daily-temperatures) | Java |
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 856 | [Score of Parentheses](./0856-score-of-parentheses) | Java |
+| 921 | [Minimum Add to Make Parentheses Valid](./0921-minimum-add-to-make-parentheses-valid) | Java |
 | 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
@@ -876,6 +879,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 856 | [Score of Parentheses](./0856-score-of-parentheses) | Java |
 | 859 | [Buddy Strings](./0859-buddy-strings) | Java |
+| 921 | [Minimum Add to Make Parentheses Valid](./0921-minimum-add-to-make-parentheses-valid) | Java |
 | 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 | 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
