@@ -142,6 +142,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 90 | [Subsets II](./0090-subsets-ii) | Unknown |
 | 93 | [Restore IP Addresses](./0093-restore-ip-addresses) | Java |
 | 95 | [Unique Binary Search Trees II](./0095-unique-binary-search-trees-ii) | Java |
+| 301 | [Remove Invalid Parentheses](./0301-remove-invalid-parentheses) | Java |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
 
 ## Binary Search
@@ -245,6 +246,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 102 | [Binary Tree Level Order Traversal](./0102-binary-tree-level-order-traversal) | Java |
 | 199 | [Binary Tree Right Side View](./0199-binary-tree-right-side-view) | Java |
 | 226 | [Invert Binary Tree](./0226-invert-binary-tree) | Java |
+| 301 | [Remove Invalid Parentheses](./0301-remove-invalid-parentheses) | Java |
 | 404 | [Sum of Left Leaves](./0404-sum-of-left-leaves) | Java |
 | 463 | [Island Perimeter](./0463-island-perimeter) | Java |
 | 2492 | [Minimum Score of a Path Between Two Cities](./2492-minimum-score-of-a-path-between-two-cities) | Java |
@@ -862,6 +864,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 205 | [Isomorphic Strings](./0205-isomorphic-strings) | Java |
 | 242 | [Valid Anagram](./0242-valid-anagram) | Java |
 | 290 | [Word Pattern](./0290-word-pattern) | Java |
+| 301 | [Remove Invalid Parentheses](./0301-remove-invalid-parentheses) | Java |
 | 344 | [Reverse String](./0344-reverse-string) | Java |
 | 345 | [Reverse Vowels of a String](./0345-reverse-vowels-of-a-string) | Java |
 | 383 | [Ransom Note](./0383-ransom-note) | Java |
