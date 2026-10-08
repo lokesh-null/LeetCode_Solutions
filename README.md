@@ -228,6 +228,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 32 | [Longest Valid Parentheses](./0032-longest-valid-parentheses) | Java |
 | 856 | [Score of Parentheses](./0856-score-of-parentheses) | Java |
 | 921 | [Minimum Add to Make Parentheses Valid](./0921-minimum-add-to-make-parentheses-valid) | Java |
+| 1021 | [Remove Outermost Parentheses](./1021-remove-outermost-parentheses) | Java |
 | 2267 | [Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path) | Java |
 
 ## Brainteaser
@@ -818,6 +819,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 844 | [Backspace String Compare](./0844-backspace-string-compare) | Java |
 | 856 | [Score of Parentheses](./0856-score-of-parentheses) | Java |
 | 921 | [Minimum Add to Make Parentheses Valid](./0921-minimum-add-to-make-parentheses-valid) | Java |
+| 1021 | [Remove Outermost Parentheses](./1021-remove-outermost-parentheses) | Java |
 | 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 | 2130 | [Maximum Twin Sum of a Linked List](./2130-maximum-twin-sum-of-a-linked-list) | Java |
 
@@ -880,6 +882,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 856 | [Score of Parentheses](./0856-score-of-parentheses) | Java |
 | 859 | [Buddy Strings](./0859-buddy-strings) | Java |
 | 921 | [Minimum Add to Make Parentheses Valid](./0921-minimum-add-to-make-parentheses-valid) | Java |
+| 1021 | [Remove Outermost Parentheses](./1021-remove-outermost-parentheses) | Java |
 | 1081 | [Smallest Subsequence of Distinct Characters](./1081-smallest-subsequence-of-distinct-characters) | Java |
 | 1189 | [Maximum Number of Balloons](./1189-maximum-number-of-balloons) | Java |
 | 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
