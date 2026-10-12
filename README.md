@@ -107,6 +107,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1979 | [Find Greatest Common Divisor of Array](./1979-find-greatest-common-divisor-of-array) | Java |
 | 2267 | [Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](./2897-apply-operations-on-array-to-maximize-sum-of-squares) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
 | 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3501 | [Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii) | Java |
@@ -209,6 +210,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 389 | [Find the Difference](./0389-find-the-difference) | Java |
 | 401 | [Binary Watch](./0401-binary-watch) | Java |
 | 476 | [Number Complement](./0476-number-complement) | Java |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](./2897-apply-operations-on-array-to-maximize-sum-of-squares) | Java |
 | 3513 | [Number of Unique XOR Triplets I](./3513-number-of-unique-xor-triplets-i) | Java |
 | 3514 | [Number of Unique XOR Triplets II](./3514-number-of-unique-xor-triplets-ii) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
@@ -436,6 +438,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1221 | [Split a String in Balanced Strings](./1221-split-a-string-in-balanced-strings) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings) | Java |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](./2897-apply-operations-on-array-to-maximize-sum-of-squares) | Java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
@@ -488,6 +491,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1331 | [Rank Transform of an Array](./1331-rank-transform-of-an-array) | Java |
 | 1370 | [Increasing Decreasing String](./1370-increasing-decreasing-string) | Java |
 | 1807 | [Evaluate the Bracket Pairs of a String](./1807-evaluate-the-bracket-pairs-of-a-string) | Java |
+| 2897 | [Apply Operations on Array to Maximize Sum of Squares](./2897-apply-operations-on-array-to-maximize-sum-of-squares) | Java |
 | 3020 | [Find the Maximum Number of Elements in Subset](./3020-find-the-maximum-number-of-elements-in-subset) | Java |
 | 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3532 | [Path Existence Queries in a Graph I](./3532-path-existence-queries-in-a-graph-i) | Java |
