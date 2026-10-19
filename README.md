@@ -105,6 +105,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
 | 1979 | [Find Greatest Common Divisor of Array](./1979-find-greatest-common-divisor-of-array) | Java |
+| 2089 | [Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array) | Java |
 | 2267 | [Check if There Is a Valid Parentheses String Path](./2267-check-if-there-is-a-valid-parentheses-string-path) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 2897 | [Apply Operations on Array to Maximize Sum of Squares](./2897-apply-operations-on-array-to-maximize-sum-of-squares) | Java |
@@ -163,6 +164,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 367 | [Valid Perfect Square](./0367-valid-perfect-square) | Java |
 | 374 | [Guess Number Higher or Lower](./0374-guess-number-higher-or-lower) | Java |
 | 744 | [Find Smallest Letter Greater Than Target](./0744-find-smallest-letter-greater-than-target) | Java |
+| 2089 | [Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array) | Java |
 | 2812 | [Find the Safest Path in a Grid](./2812-find-the-safest-path-in-a-grid) | Java |
 | 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3501 | [Maximize Active Section with Trade II](./3501-maximize-active-section-with-trade-ii) | Java |
@@ -802,6 +804,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1331 | [Rank Transform of an Array](./1331-rank-transform-of-an-array) | Java |
 | 1833 | [Maximum Ice Cream Bars](./1833-maximum-ice-cream-bars) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
+| 2089 | [Find Target Indices After Sorting Array](./2089-find-target-indices-after-sorting-array) | Java |
 | 3517 | [Smallest Palindromic Rearrangement I](./3517-smallest-palindromic-rearrangement-i) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3536 | [Maximum Product of Two Digits](./3536-maximum-product-of-two-digits) | Java |
