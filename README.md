@@ -589,6 +589,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1344 | [Angle Between Hands of a Clock](./1344-angle-between-hands-of-a-clock) | Java |
 | 1840 | [Maximum Building Height](./1840-maximum-building-height) | Java |
 | 1979 | [Find Greatest Common Divisor of Array](./1979-find-greatest-common-divisor-of-array) | Java |
+| 2413 | [Smallest Even Multiple](./2413-smallest-even-multiple) | Java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i) | Java |
 | 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3513 | [Number of Unique XOR Triplets I](./3513-number-of-unique-xor-triplets-i) | Java |
@@ -674,6 +675,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | # | Problem | Language |
 | :---: | :--- | :---: |
 | 1979 | [Find Greatest Common Divisor of Array](./1979-find-greatest-common-divisor-of-array) | Java |
+| 2413 | [Smallest Even Multiple](./2413-smallest-even-multiple) | Java |
 | 3312 | [Sorted GCD Pair Queries](./3312-sorted-gcd-pair-queries) | Java |
 | 3658 | [GCD of Odd and Even Sums](./3658-gcd-of-odd-and-even-sums) | Java |
 | 3867 | [Sum of GCD of Formed Pairs](./3867-sum-of-gcd-of-formed-pairs) | Java |
