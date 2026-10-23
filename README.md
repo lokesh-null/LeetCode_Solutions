@@ -120,6 +120,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
 | 3620 | [Network Recovery Pathways](./3620-network-recovery-pathways) | Java |
+| 3644 | [Maximum K to Sort a Permutation](./3644-maximum-k-to-sort-a-permutation) | Java |
 | 3689 | [Maximum Total Subarray Value I](./3689-maximum-total-subarray-value-i) | Java |
 | 3739 | [Count Subarrays With Majority Element II](./3739-count-subarrays-with-majority-element-ii) | Java |
 | 3838 | [Weighted Word Mapping](./3838-weighted-word-mapping) | Java |
@@ -217,6 +218,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 3514 | [Number of Unique XOR Triplets II](./3514-number-of-unique-xor-triplets-ii) | Java |
 | 3534 | [Path Existence Queries in a Graph II](./3534-path-existence-queries-in-a-graph-ii) | Java |
 | 3559 | [Number of Ways to Assign Edge Weights II](./3559-number-of-ways-to-assign-edge-weights-ii) | Java |
+| 3644 | [Maximum K to Sort a Permutation](./3644-maximum-k-to-sort-a-permutation) | Java |
 
 ## Boyer–Moore String-Search Algorithm
 
