@@ -903,6 +903,7 @@ This repository contains my solutions to LeetCode problems, categorized by **Top
 | 1370 | [Increasing Decreasing String](./1370-increasing-decreasing-string) | Java |
 | 1807 | [Evaluate the Bracket Pairs of a String](./1807-evaluate-the-bracket-pairs-of-a-string) | Java |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./1967-number-of-strings-that-appear-as-substrings-in-word) | Java |
+| 2124 | [Check if All A's Appears Before All B's](./2124-check-if-all-as-appears-before-all-bs) | Java |
 | 2472 | [Maximum Number of Non-overlapping Palindrome Substrings](./2472-maximum-number-of-non-overlapping-palindrome-substrings) | Java |
 | 3014 | [Minimum Number of Pushes to Type Word I](./3014-minimum-number-of-pushes-to-type-word-i) | Java |
 | 3499 | [Maximize Active Section with Trade I](./3499-maximize-active-section-with-trade-i) | Java |
